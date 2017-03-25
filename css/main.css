@@ -45,6 +45,7 @@ ul.posts li {
 }
 
 .photo {
+    display: inline-block;
     width: 30%;
 }
 
