@@ -43,3 +43,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
+#photo {
+  height: 400px;
+  width: 100%;
+}
