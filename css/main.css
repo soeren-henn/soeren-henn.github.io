@@ -46,8 +46,9 @@ ul.posts li {
 
 .photo {
     display: inline-block;
-    float: left;
+    float: right;
     width: 30%;
+    padding: 10em;
 }
 
 .photo img {
