@@ -4,6 +4,7 @@ body {
 }
 
 title {
+    position: absolute;
     text-align: center;    
 }
 nav ul, footer ul {
