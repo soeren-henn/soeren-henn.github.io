@@ -3,10 +3,10 @@ body {
     width: 70%;
 }
 
-title {
-    position: absolute;
-    text-align: center;    
+.center {
+    text-align: center;
 }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
