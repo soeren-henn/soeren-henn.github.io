@@ -62,7 +62,7 @@ ul.posts li {
 }
 
 .biotext {
-    min-width: 400px;
+    column-width: 400px;
 }
 
 .photo img {
