@@ -33,7 +33,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
+    font-size: 18px;
     line-height: 1.6em;
     color: #333;
     text-align: justify;
@@ -61,8 +61,10 @@ ul.posts li {
     min-width: 400px;
 }
 
-.biotext {
-    column-width: 400px;
+.biotext:before {
+  content: ' ';
+  display: table;
+  width: 200px;
 }
 
 .photo img {
