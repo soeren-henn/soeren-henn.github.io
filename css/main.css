@@ -61,6 +61,10 @@ ul.posts li {
     min-width: 400px;
 }
 
+.biotext {
+    min-width: 400px;
+}
+
 .photo img {
   width:100%;
 }
