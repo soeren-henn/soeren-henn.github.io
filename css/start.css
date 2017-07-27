@@ -4,7 +4,7 @@ body {
     background-image: url("https://soeren-henn.github.io/images/boat.JPG");
     background-repeat: no-repeat;
     background-position: right top;
-    background-size: auto 100%;
+    background-size: cover;
 }
 
 .centre {
