@@ -1,0 +1,86 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+    background-image: url("https://soeren-henn.github.io/images/boat.JPG");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 100%;
+}
+
+.centre {
+    text-align: center;
+}
+
+.bottom {
+    text-align: center;
+}
+
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    font-size: 18px;
+    line-height: 1.6em;
+    color: #333;
+    text-align: justify;
+    margin: 0.625em 0;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+.photo {
+    display: inline-block;
+    float: right;
+    width: 33%;
+    padding: 0 0 2em 2em;
+    min-width: 400px;
+}
+
+.biotext:before {
+    content: ' ';
+    display: block;
+    overflow: hidden;
+    clear: left;
+    width: 20em;
+}
+
+.photo img {
+  width:100%;
+}
+
+.subject {
+    padding: 0 0 2em 0;
+}
+
+.paper {
+    padding: 0 0 2em 0;
+}
