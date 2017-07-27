@@ -1,6 +1,9 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-image: url("\images\boat.JPG");
+    background-repeat: no-repeat;
+    background-position: right top;
 }
 
 .centre {
