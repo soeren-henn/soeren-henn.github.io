@@ -4,7 +4,7 @@ body {
     background-image: url("https://soeren-henn.github.io/images/boat.JPG");
     background-repeat: no-repeat;
     background-position: right top;
-    background-size: 100%;
+    background-size: auto 100%;
 }
 
 .centre {
@@ -42,6 +42,7 @@ p {
     color: #333;
     text-align: justify;
     margin: 0.625em 0;
+    text-align: center;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -55,32 +56,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-
-.photo {
-    display: inline-block;
-    float: right;
-    width: 33%;
-    padding: 0 0 2em 2em;
-    min-width: 400px;
-}
-
-.biotext:before {
-    content: ' ';
-    display: block;
-    overflow: hidden;
-    clear: left;
-    width: 20em;
-}
-
-.photo img {
-  width:100%;
-}
-
-.subject {
-    padding: 0 0 2em 0;
-}
-
-.paper {
-    padding: 0 0 2em 0;
 }
