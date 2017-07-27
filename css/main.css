@@ -1,10 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-image: url("https://soeren-henn.github.io/images/boat.JPG");
-    background-repeat: no-repeat;
-    background-position: right top;
-    background-size: 100%;
 }
 
 .centre {
