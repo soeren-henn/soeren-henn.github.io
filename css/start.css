@@ -3,7 +3,7 @@ html, body{
 }
 
 body {
-    margin: auto auto;
+    margin: 60px auto;
     width: 80%;
     background-image: url("https://soeren-henn.github.io/images/boat.JPG");
     background-repeat: no-repeat;
