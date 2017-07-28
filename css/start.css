@@ -2,13 +2,16 @@ html, body{
   height: 100%;
 }
 
+html { 
+  background: url(images/boat.JPG) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 body {
-    margin: 60px auto 0px auto;
-    width: 80%;
-    background-image: url("https://soeren-henn.github.io/images/boat.JPG");
-    background-repeat: no-repeat;
-    background-position: center top;
-    background-size: auto 100%;
+    width: 70%;
 }
 
 
