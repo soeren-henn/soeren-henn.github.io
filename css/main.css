@@ -87,4 +87,6 @@ ul.posts li {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  margin: 80px 0 20px;
+  position: relative;
 }
