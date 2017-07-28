@@ -81,3 +81,10 @@ ul.posts li {
     padding: 0 0 2em 0;
 }
 
+.research-header {
+  background: url(images/pump.JPG) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
