@@ -110,3 +110,15 @@ ul.posts li {
   margin: 80px 0 20px;
   position: relative;
 }
+
+@media screen and (min-width: 992px){
+    .research {
+        width: 970px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .research {
+        width: 7500px;
+    }
+}
