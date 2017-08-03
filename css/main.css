@@ -75,13 +75,9 @@ ul.posts li {
     list-style: none;
 }
 
-footer li {
+footer ul li {
     height: 48px;
     width: 48px;
-}
-
-footer li img {
-  height: 100%;
 }
 
 /* --- Bio --- */
