@@ -56,10 +56,8 @@ ul.posts li {
 .photo {
     display: inline-block;
     float: right;
-    width: 33%;
+    width: 400px;
     padding: 0 0 2em 2em;
-    min-width: 400px;
-    max-width: 500px;
 }
 
 .biotext:before {
