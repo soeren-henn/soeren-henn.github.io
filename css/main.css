@@ -85,6 +85,7 @@ ul.posts li {
     text-align: center;
     height: 100%;
     line-height: 100%;
+    vertical-align: middle;
 }
 
 .research-title h1{
