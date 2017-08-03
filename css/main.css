@@ -133,10 +133,7 @@ ul.posts li {
         width: 750px;
     }
     .research-header {
-        height: 400px;
-    }
-    .research-title h1{
-        font-size: 80px;
+        height: 426px;
     }    
 }
 
@@ -150,7 +147,10 @@ ul.posts li {
     }
     .research-header {
         height: 500px;
-  }
+    }
+    .research-title h1{
+        font-size: 80px;
+    }
 }
 
 @media (max-width: 365px) { 
