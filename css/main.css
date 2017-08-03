@@ -11,7 +11,7 @@ body {
 }
 
 nav {
-    margin-left
+    line-height: 100%;
 }
 
 nav ul, footer ul {
@@ -124,6 +124,9 @@ ul.posts li {
     }
     .about{
         margin: 0px 100px 40px 100px;
+    }
+    nav ul, footer ul {
+        padding: 0px 100px 0px 100px
     }
     .research-header {
         height: 400px;
