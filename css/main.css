@@ -119,8 +119,11 @@ ul.posts li {
     .research {
         width: 970px;
     }
-     .research-header {
-    height: 400px;
+    .about{
+        width: 970px;
+    }
+    .research-header {
+        height: 400px;
   }
 }
 
@@ -128,8 +131,11 @@ ul.posts li {
     .research {
         width: 750px;
     }
-     .research-header {
-    height: 400px;
+    .about{
+        width: 750px;
+    }
+    .research-header {
+        height: 400px;
   }
 }
 
