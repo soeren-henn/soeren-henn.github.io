@@ -91,6 +91,7 @@ ul.posts li {
 .research-title h1{
     font-size: 50px;
     color: white;
+    vertical-align: middle;
 }    
 .paper {
     padding: 0 0 2em 0;
