@@ -81,6 +81,15 @@ ul.posts li {
     padding: 0 0 2em 0;
 }
 
+.research-title{
+    text-align: center;
+    line-height: 100%;
+}
+
+.research-title h1{
+    font-size: 50px;
+    color: white;
+}    
 .paper {
     padding: 0 0 2em 0;
 }
@@ -136,7 +145,10 @@ ul.posts li {
     }
     .research-header {
         height: 400px;
-  }
+    }
+    .research-title h1{
+        font-size: 50px;
+    }    
 }
 
 
