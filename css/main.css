@@ -120,7 +120,7 @@ ul.posts li {
         width: 970px;
     }
     .about{
-        width: 970px;
+        margin: 0px 100px 0px 100px;
     }
     .research-header {
         height: 400px;
@@ -129,9 +129,6 @@ ul.posts li {
 
 @media (min-width: 768px){
     .research {
-        width: 750px;
-    }
-    .about{
         width: 750px;
     }
     .research-header {
