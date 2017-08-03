@@ -128,18 +128,6 @@ ul.posts li {
    
 }
 
-@media (min-width: 992px){
-    .research {
-        width: 970px;
-    }
-    .about{
-        margin: 0px 100px 40px 100px;
-    }
-    .research-header {
-        height: 500px;
-  }
-}
-
 @media (min-width: 768px){
     .research {
         width: 750px;
@@ -152,6 +140,18 @@ ul.posts li {
     }    
 }
 
+
+@media (min-width: 992px){
+    .research {
+        width: 970px;
+    }
+    .about{
+        margin: 0px 100px 40px 100px;
+    }
+    .research-header {
+        height: 500px;
+  }
+}
 
 @media (max-width: 365px) { 
   .research-header {
