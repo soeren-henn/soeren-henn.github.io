@@ -1,3 +1,5 @@
+/* --- General --- */
+
 body {
     margin: 0;
 }
@@ -6,32 +8,6 @@ body {
     text-align: center;
 }
 
-.bottom {
-    text-align: center;
-}
-
-nav {
-    line-height: 100%;
-}
-
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 18px;
-    padding: 0px 15px 0px 15px;
-    list-style: none;
-    font-weight: bold;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -44,6 +20,47 @@ p {
     margin: 0.625em 0;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+
+
+/* --- Nav Bar --- */
+nav {
+    line-height: 100%;
+}
+
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px 15px 0px 15px;
+    list-style: none;
+    font-weight: bold;
+}
+
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+/* --- Footer --- */
+.bottom {
+    text-align: center;
+}
+
+footer ul {
+    font-size: 40px;
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -58,6 +75,12 @@ ul.posts li {
     list-style: none;
 }
 
+footer img {
+  height: 40px;
+}
+
+
+/* --- Bio --- */
 .photo {
     display: inline-block;
     float: right;
@@ -77,31 +100,6 @@ ul.posts li {
   width:100%;
 }
 
-.subject {
-    padding: 0 0 2em 0;
-}
-
-.research-title{
-    text-align: center;
-    padding: 150px 0;
-}
-
-.research-title h1{
-    font-size: 50px;
-    color: white;
-    vertical-align: middle;
-}    
-.paper {
-    padding: 0 0 2em 0;
-}
-
-.research {
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-}
-
 .about {
     padding-right: 15px;
     padding-left: 15px;
@@ -109,7 +107,10 @@ ul.posts li {
     margin-left: auto;
 }
 
-.teaching {
+
+
+/* --- Research --- */
+.research {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
@@ -124,10 +125,39 @@ ul.posts li {
   background-size: cover;
   margin: 0px 0 20px;
   position: relative;
-  min-height: 200px;
-   
+  min-height: 200px;   
 }
 
+.research-title{
+    text-align: center;
+    padding: 150px 0;
+}
+
+.research-title h1{
+    font-size: 50px;
+    color: white;
+    vertical-align: middle;
+}
+
+.paper {
+    padding: 0 0 2em 0;
+}
+
+
+/* --- Teaching --- */
+.teaching {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.subject {
+    padding: 0 0 2em 0;
+}
+
+
+/* --- Size --- */
 @media (min-width: 768px){
     .research {
         width: 750px;
@@ -151,6 +181,9 @@ ul.posts li {
     .research-title h1{
         font-size: 80px;
     }
+    .teaching {
+        margin:0px 100px 0px 100px;
+    }
 }
 
 @media (max-width: 365px) { 
@@ -163,9 +196,4 @@ ul.posts li {
   .research-header {
     height: 200px;
   }
-}
-
-
-footer img {
-  height: 40px;
 }
