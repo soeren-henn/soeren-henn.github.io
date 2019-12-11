@@ -1,0 +1,45 @@
+Country Name,Admin Unit,Checked?,Population?,Note,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+Benin,department,yes,2013,"there used to be 6 departments until 1999, they were only assigned capitals in 2008",12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12
+Benin,commune,yes,2013,no change since 2002 (rior to 1999 provinces were broken down into 84 districts),77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77
+Botswana,district,yes,2011,"new district in 2006 (the 16 districts are actually ten districts, four town councils, and two city councils all administered seperately)",15,15,15,15,15,15,16,16,16,16,16,16,16,16,16,16,16,16
+Botswana,subdistrict,,,change in 2006 that I was unable to track. I think it went from 31 to 43,,,,,,,,,,,,,,,,,,
+Burkina Faso,province,yes,2006,no change since 2002 (but there was a change in 1995. 15 departments became provinces),45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45
+Burkina Faso,department,yes,2006,"no change since 2002 (but there was a change in 1995. 15 departments became provinces and were divided into new departments. These provinces have 90 departments today, so I assume that there were 75 less departments in 1995)",351,351,351,351,351,351,351,351,351,351,351,351,351,351,351,351,351,351
+Burundi,province,yes,2008,New province in 2015 (rumonge). There was also another province that split in 2002,16,16,17,17,17,17,17,17,17,17,17,17,17,17,17,18,18,18
+Burundi,commune,yes,2008,2004: one commune split into 9 and two additional communes were added (there was also one new commune created in 1997),115,115,115,115,129,129,129,129,129,129,129,129,129,129,129,129,129,129
+Cameroon,department,yes,2001,no change since 2002 (in 1995 it was 55 and changed in 1998 to 1998),58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58
+Cameroon,arrondisment,yes,,no change since 2002,360,360,360,360,360,360,360,360,360,360,360,360,360,360,360,360,360,360
+Cote d'Ivoire,department,yes,2014,"50 in 1995, 58 in 1998, 70 in 2005, 81 in 2008, 90 in 2009, 95 in 2011, 107 in 2012 and 108 in 2013",58,58,58,58,58,70,70,70,81,90,90,95,107,108,108,108,108,108
+Cote d'Ivoire,sub-prefectures,yes,"not put in yet, but exists",sub prefectures were created in 2011,,,,,,,,,,,,510,510,510,510,510,510,510
+Ghana,region,yes,2010,no change since 1984,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+Ghana,district,yes (138 instead of 135),"not put in yet, but exists","The reform of the late 1980s subdivided the regions of Ghana into 110 districts, where local district assemblies should deal with the local administration. By 2006, an additional 28 districts were created by splitting some of the original 110, bringing their number up to 138. In February 2008, there were more districts created and some were upgraded to municipal status. This brought the final number to 170 districts in Ghana.Since then, a further 46 districts have been added since 28 June 2012 bringing the total to 216 districts.",110,110,110,110,110,110,138,138,170,170,170,170,216,216,216,216,216,216
+Kenya,county,yes,2009,the constitution changed in 2010. only then were counties created. There were districts before (which had changes),,,,,,,,,,,46,46,46,46,46,46,46,46
+Liberia,county,yes,2008,one was created in 200 and one in 2001. no other changes since 1985,13,14,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15
+Liberia,districts,,,there were changes after 2006 but I couldn't find a good shapefile and the names of the headquarters. I think it went from 68 to 90,,,,,,,,,,,,,,,,,,
+Madagascar,region,yes,2013,the regions were created in 22. before there were provinces which were abolished,,,,,22,22,22,22,22,22,22,22,22,22,22,22,22,22
+Madagascar,district,yes,2013,4 new districts in 2007,,,110,110,110,110,110,114,114,114,114,114,114,114,114,114,114,114
+Malawi,region,yes,2008,,,,,,,,,,,,,,,,,,,
+Malawi,district,yes,2008,3 districts were created in 1998 and one in 2003,27,27,27,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28
+Mali,cercle,yes,1998,"2 new regions and 8 cercles were created in 2016. I am a bit unclear with the situation prior to 2002, would just use the Grossman info",,,49,49,49,49,49,49,49,49,49,49,49,49,49,49,57,57
+Mali,commune,yes,,There were 18 communes before 1996 when 684 additional ones were created. Unclear whether there are new communes post 2016,701,701,701,701,701,701,701,701,701,701,701,701,701,701,701,701,,
+Mozambique,province,yes,2015 (estimate),no change since 1984,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+Mozambique,district,yes,2007,"1 new district in 2002, 23 in 2013 and 3 in 2016",127,127,128,128,128,128,128,128,128,128,128,128,128,151,151,151,154,154
+Namibia,region,yes,2011,"the 13 regions were established in 1991 (from 26 districts), 1 more region in 2013",13,13,13,13,13,13,13,13,13,13,13,13,13,14,14,14,14,14
+Namibia,constituency,yes,2011,"1992 established 95 constituencies, was increased to 102 in 1998, to 107 in 2002 and to 121 in 2013",102,102,102,107,107,107,107,107,107,107,107,107,107,121,121,121,121,121
+Niger,region,yes,2010,"no change since 1992 (but prior to 2001, they were called depatments)",7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Niger,department,yes,no but exists,"In 2011, number of departments increases from 36 to 63. before that no change since 1992 (they were called arrondisment before 2001)",36,36,36,36,36,36,36,36,36,36,36,63,63,63,63,63,63,63
+Nigeria,state,yes,2006,no change since 1996 (when it went from 31 to 36),36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36
+Nigeria,lga,yes,no but exists,no change since 1999 when they were mentionned in the constitution. Unsure what was the situation before),774,774,774,774,774,774,774,774,774,774,774,774,774,774,774,774,774,774
+Senegal,region,yes,2013 and 2001,"1 new region in 2002, 3 new regions in 2008, prior to that no change since 1984",10,10,11,11,11,11,11,11,14,14,14,14,14,14,14,14,14,14
+Senegal,cr,check,,changes in 2009 and 2012,,,364,364,364,364,364,364,364,414,414,414,431,431,431,431,431,431
+Sierra Leone,district,yes,2004,"no change since 1949, but two new districts in 2017",,,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,16
+Sierra Leone,chiefdom,yes,,"no change since independence, but in 2017 number was increased to 190",149,149,149,149,149,149,149,149,149,149,149,149,149,149,149,149,149,190
+South Africa,district,yes,"yes, don't know what year",was reduced from 53 to 52 in 2005 and some boundaries were redrawn,53,53,53,53,53,53,52,52,52,52,52,52,52,52,52,,,
+South Africa,municipality,check,,changes in 2016,,,226,226,226,226,226,226,226,226,226,226,226,226,226,,,
+Tanzania,regions,yes,2012 (could use better data for 2002),"25 regions in ith 90s, one new one in 2003 and 4 new regions in 2012",25,25,25,26,26,26,26,26,26,26,26,26,30,30,30,30,30,30
+Tanzania,district,yes,no but exists,"19 new districts in 2012, sporadically new districts before that (see statoid)",127,127,129,129,129,129,129,130,130,130,130,130,149,149,149,149,149,149
+Uganda,district,yes,no but exists (look at statoids),"change in 2000, 2001,2005, 2006, 2007 and 2010",53,56,56,56,56,70,77,80,80,80,112,112,112,112,112,112,112,112
+Zambia,province,yes,2010 (could be better/older for earlier),"new province in 2011, before that no change since 1973",9,9,9,9,9,9,9,9,9,9,10,10,10,10,10,10,10,10
+Zambia,district,yes,no but exists,in 2013 it went from 72 districts to 110 (but different sources speak of 103 or 106 districts after 2013). Unclear how long the 72 existed before statoids suggests that there were 57 in 1980 and 61 some time inbetween,72,72,72,72,72,72,72,72,72,72,72,72,72,110,110,110,110,110
+Zimbabwe,province,yes,2012,2 new provinces in 1997 nothing since then or before that (since 1981),10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+Zimbabwe,district,yes,no but exists (look at statoids),"some sources say there are 63, it depends how you count the urban districts. Some changes probably in 200 and 2001 but hard to keep track. There were 55 in 190",,,59,59,59,59,59,59,59,59,59,59,59,59,59,59,59,59
