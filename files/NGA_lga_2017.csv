@@ -1,0 +1,762 @@
+capital,state,lga,latitude,longitude
+Aba,Abia,Aba South,5.106576,7.366667
+ Eziama Urata,Abia,Aba North,5.1282668,7.3647141
+Abadam,Borno,Abadam,13.616902,13.264381
+Abaji,Federal Capital Territory,Abaji,8.466667,6.95
+Abak,Akwa lbom,Abak,4.9797,7.791708
+Abakaliki,Ebonyi,Abakaliki,6.316249,8.116908
+Abeokuta,Ogun,Abeokuta South,7.15,3.35
+xx,Ogun,Abeokuta North,7.1870242,3.3369517
+Abua,Rivers,Abua/Odual,4.856778,6.644169
+Ogaminana,Kogi,Adavi,7.6004,6.2014
+Igumale,Benue,Ado,6.7918,7.985
+Ado-Ekiti,Ekiti,Ado Ekiti,7.621001,5.221495
+Ado Odo,Ogun,Ado-Odo/Ota,6.6,2.933333
+Jobele,Oyo,Afijio,7.766667,3.916667
+Afikpo,Ebonyi,Afikpo North,5.893121,7.937353
+Edda,Ebonyi,Afikpo South,5.935478,7.856355
+Agaie,Niger,Agaie,9.016667,6.316667
+Obangedde,Benue,Agatu,7.828,7.8141
+Agege,Lagos,Agege,6.614259,3.324371
+Ekwulobia,Anambra,Aguata,6.0238,7.0862
+Agwarra,Niger,Agwara,10.704112,4.582222
+Oru,Imo,Ahiazu-Mbaise,5.53414,7.267071
+Ahoada,Rivers,Ahoada East,5.073951,6.653529
+Akinima,Rivers,Ahoada West,5.085797,6.470887
+Gbongan,Osun,Aiyedade,7.466667,4.35
+Ile Igbo,Osun,Aiyedire,7.616667,4.25
+Ajaokuta,Kogi,Ajaokuta,7.4605,6.6947
+Ajingi,Kano,Ajingi,11.967022,9.0368
+Akankpa,Cross River,Akamkpa,5.31278,8.355357
+Moniya,Oyo,Akinyele,7.528333,3.911944
+Kumo,Gombe,Akko,10.044687,11.21217
+Ikare,Ondo,Akoko North East,7.516667,5.75
+Oke Agbe,Ondo,Akoko North West,7.644835,5.761518
+Isua,Ondo,Akoko South East,7.4378,5.8987
+Oka,Ondo,Akoko South West,7.4570149,5.8012808
+Igarra,Edo,Akoko-Edo,7.2827,6.0878
+Ikot Nakanda,Cross River,Akpabuyo,4.878475,8.486148
+Abonnema,Rivers,Akuku Toru,,
+Iju,Ondo,Akure North,7.393848,5.263265
+Akure,Ondo,Akure South,7.25256,5.193118
+Akwanga,Nasarawa,Akwanga,8.916667,8.383333
+Albasu,Kano,Albasu,11.675187,9.138668
+Aliero,Kebbi,Aleiro,12.287684,4.47122
+Alimosho,Lagos,Alimosho,6.610833,3.296111
+Alkaleri,Bauchi,Alkaleri,10.266055,10.335287
+Amuwo,Lagos,Amuwo-Odofin,6.469861,3.295815
+Aguleri,Anambra,Anambra East,6.322409,6.890214
+Nzam,Anambra,Anambra West,6.454111,6.729249
+Agulu,Anambra,Anaocha,6.11,7.0724
+Ngo,Rivers,Andoni,4.483279,7.414591
+Ndeaboh,Enugu,Aninri,6.042548,7.582072
+Issele-Uku,Delta,Aniocha North,6.315172,6.474054
+Ogwashi-Uku,Delta,Aniocha South,6.178178,6.524293
+Anka,Zamfara,Anka,12.113814,5.924273
+Ankpa,Kogi,Ankpa,7.370575,7.6253
+Okpogu,Benue,Apa,7.639256,7.942691
+Apapa,Lagos,Apapa,6.445556,3.359167
+Argungu,Kebbi,Argungu,12.743336,4.526872
+Arochukwu,Abia,Arochukwu,5.389791,7.914043
+Afon,Kwara,Asa,8.316667,4.533333
+Askira,Borno,Askira/Uba,10.646971,12.911043
+Iperindo,Osun,Atakumosa East,7.5,4.816667
+Osu,Osun,Atakumosa West,7.583333,4.616667
+Ofe,Oyo,Atiba,8.133333,3.916667
+Tede,Oyo,Atigbo,8.55,3.45
+Augie,Kebbi,Augie,12.887882,4.599805
+Hadejia,Jigawa,Hadejia,12.4498,10.0444
+Auyo,Jigawa,Auyo,12.358146,9.968092
+Awe,Nasarawa,Awe,8.1,9.133333
+Awgu,Enugu,Awgu,6.0742,7.4786
+Achalla,Anambra,Awka North,6.334484,6.989788
+Akwa,Anambra,Awka South,6.210095,7.074115
+Omo,Anambra,Ayamelum,6.519858,6.964936
+Babura,Jigawa,Babura,12.773048,9.015827
+Badagri,Lagos,Badagry,6.416667,2.883333
+Gashua,Yobe,Bade,12.871,11.0482
+Bagudo,Kebbi,Bagudo,11.403288,4.229585
+Bagwai,Kano,Bagwai,12.157704,8.1358
+Bakori,Katsina,Bakori,11.55445,7.424251
+Bakura,Zamfara,Bakura,12.710459,5.874872
+Balanga,Gombe,Balanga,10.016667,11.55
+Bali,Taraba,Bali,7.866667,10.966667
+Bama,Borno,Bama,11.522103,13.685579
+Barikin Ladi,Plateau,Barikin Ladi,9.533333,8.9
+Kosubosu,Kwara,Baruten,9.583333,3.25
+Oguma,Kogi,Bassa,7.8981,7.0524
+Bassa,Plateau,Bassa,9.933333,8.733333
+Batagarawa,Katsina,Batagarawa,12.903077,7.619442
+Batsari,Katsina,Batsari,12.751466,7.244719
+Bauchi,Bauchi,Bauchi,10.315833,9.844167
+Baure,Katsina,Baure,12.836146,8.746383
+Bebeji,Kano,Bebeji,11.667256,8.262172
+Bekwara,Cross River,Bekwara,6.7368,8.9233
+Bende,Abia,Bende,5.557182,7.636764
+Bichi,Kano,Bichi,12.234297,8.241181
+Bida,Niger,Bida,9.083333,6.016667
+Billiri,Gombe,Billiri,9.864722,11.225278
+Bindawa,Katsina,Bindawa,12.667703,7.809415
+Binji,Sokoto,Binji,13.222773,4.909553
+Birinawa,Jigawa,Biriniwa,12.7903,10.2348
+Birnin Kudu,Jigawa,Birni Kudu,11.445877,9.498397
+Birnin Kebbi,Kebbi,Birnin Kebbi,12.453889,4.1975
+Birni Mogaji,Zamfara,Birnin Magaji,12.543635,6.811283
+Birnin-Gwari,Kaduna,Birnin-Gwari,11.015374,6.780358
+Biu,Borno,Biu,10.612854,12.194579
+Bodinga,Sokoto,Bodinga,12.876111,5.171944
+Bogoro,Bauchi,Bogoro,9.65,9.616667
+Boji,Cross River,Boki,6.289317,8.910347
+Bokkos,Plateau,Bokkos,9.3,9
+Otan Aiyegbaju,Osun,Boluwaduro,7.95,4.8
+Bomadi,Delta,Bomadi,5.159311,5.92516
+Bonny,Rivers,Bonny,4.45171,7.17052
+New Bussa,Niger,Borgu,9.883333,4.516667
+Iragbiji,Osun,Boripe,7.9,4.683333
+Brass,Bayelsa,Brass,4.3070334,6.2457466
+Buji,Jigawa,Buji,11.518597,9.671172
+Bukkuyum,Zamfara,Bukkuyum,12.137692,5.466486
+Bungudu,Zamfara,Bungudu,12.267152,6.547476
+Bunkure,Kano,Bunkure,11.696699,8.539934
+Bunza,Kebbi,Bunza,12.091632,4.013028
+Dapchi,Yobe,Bursari,12.4904,11.4944
+Buruku,Benue,Buruku,7.466667,9.2
+Burutu,Delta,Burutu,5.350908,5.507585
+xx,Federal Capital Territory,Bwari,9.283333,7.383333
+Calabar,Cross River,Calabar-Municipal,4.966667,8.333333
+Anantigha,Cross River,Calabar South,4.9191463,8.3278876
+Maikunkele,Niger,Bosso,9.6825,6.468333
+Minna,Niger,Chanchaga,9.613889,6.556944
+Charanchi,Katsina,Charanchi,12.670863,7.73194
+Chibok,Borno,Chibok,10.86583,12.847017
+Chikun,Kaduna,Chikun,10.269119,7.108446
+Damaturu,Yobe,Damaturu,11.747,11.9608
+Damban,Bauchi,Damban,11.6793,10.7074
+Dambatta,Kano,Dambatta,12.433031,8.515409
+Damboa,Borno,Damboa,11.156036,12.757583
+Dan Musa,Katsina,Dan Musa,12.261568,7.334091
+Kamba,Kebbi,Dandi,11.848642,3.65761
+Dan Dume,Katsina,Dandume,11.446185,7.127703
+Dange,Sokoto,Dange-Shnsi,12.851278,5.347046
+Danja,Katsina,Danja,11.376431,7.562489
+Darazo,Bauchi,Darazo,10.993754,10.411791
+Dass,Bauchi,Dass,10.000833,9.516111
+Daura,Katsina,Daura,13.035941,8.316313
+Dawakin Kudu,Kano,Dawakin Kudu,11.835052,8.597561
+Dawakin Tofa,Kano,Dawakin Tofa,12.102654,8.331363
+Degema,Rivers,Degema,4.746111,6.767693
+Dekina,Kogi,Dekina,7.694746,7.022175
+Demsa,Adamawa,Demsa,9.466667,12.15
+Dikwa,Borno,Dikwa,12.023957,13.916458
+Ririwai,Kano,Doguwa,10.738648,8.744503
+Doma,Nasarawa,Doma,8.383333,8.35
+Donga,Taraba,Donga,7.716667,10.05
+Dukku,Gombe,Dukku,10.823056,10.771667
+Ukpo,Anambra,Dunukofia,6.212867,6.964155
+Dutse,Jigawa,Dutse,11.759404,9.339207
+Dutsi,Katsina,Dutsi,12.825445,8.142927
+Dutsin Ma,Katsina,Dutsin-Ma,12.45167,7.498049
+Okoro Ete,Akwa lbom,Eastern Obolo,4.53953,7.751667
+Enagi,Niger,Edati,9.133333,5.55
+Ede,Osun,Ede North,7.733333,4.433333
+xx,Osun,Ede South,7.7056172,4.4460028
+Lafiagi,Kwara,Edu,8.866667,5.416667
+Efon-Alaiye,Ekiti,Efon-Alayee,7.65,4.916667
+Aiyetoro,Ogun,Egbado North,7.233333,3.033333
+Ilaro,Ogun,Egbado South,6.886528,3.020501
+Egbeda,Oyo,Egbeda,7.366667,4.05
+Uselu,Edo,Egor,6.384544,5.610999
+Umueze,Imo,Ehime-Mbano,5.632472,7.305403
+Ejigbo,Osun,Ejigbo,7.9,4.316667
+Ekeremor,Bayelsa,Ekeremor,5.055631,5.780063
+Eket,Akwa lbom,Eket,4.641221,7.920921
+Araromi-Opin,Kwara,Ekiti,8.066667,5.25
+Omuo-Ekiti,Ekiti,Ekiti East,7.75733,5.7228
+Ilawe-Ekiti,Ekiti,Ekiti South West,7.5986,5.1086
+Aramoko-Ekiti,Ekiti,Ekiti West,7.709272,5.044737
+Ekwusigo,Anambra,Ekwusigo,5.971462,6.835242
+Ogali,Rivers,Eleme,4.786044,7.126889
+Emohua,Rivers,Emohua,4.881621,6.86247
+Emure-Ekiti,Ekiti,Emure,7.436137,5.459322
+Enugu,Enugu,Enugu East,6.5,7.5
+Enugu,Enugu,Enugu North,6.4402,7.4943
+Uwani,Enugu,Enugu South,6.41505,7.49866
+Epe,Lagos,Epe,6.583333,3.983333
+Irrua,Edo,Esan Central,6.733703,6.218711
+Uromi,Edo,Esan North East,6.707294,6.328434
+Ubiaja,Edo,Esan South East,6.655043,6.386872
+Ekpoma,Edo,Esan West,6.742063,6.139003
+Igbekebo,Ondo,Ese-Odo,6.35458,4.862704
+Ikot Ebak Efagha,Akwa lbom,Essien Udim,5.125042,7.657165
+Okehi,Rivers,Etche,5.136058,7.135654
+Isiokolo,Delta,Ethiope East,5.594958,6.000513
+Ethiope River,Delta,Ethiope West,5.900272,5.691736
+"Etim Ekpo, River",Akwa lbom,Etim Ekpo,5.009502,7.619896
+Etinan,Akwa lbom,Etinan,4.842617,7.852523
+Ikoyi,Lagos,Eti-Osa,6.456061,3.442218
+Fugar,Edo,Etsako Central,7.083333,6.5
+Agenebode,Edo,Etsako East,7.106,6.6966
+Auchi,Edo,Etsako West,7.066667,6.266667
+Efferaya,Cross River,Etung,5.858,8.7247
+Ewekoro,Ogun,Ewekoro,6.907079,3.208703
+Ezeagu,Enugu,Ezeagu,6.3832,7.2898
+Okpofe,Imo,Ezinihitte,5.474134,7.300303
+Okposi,Ebonyi,Ezza North,6.285724,8.013431
+Onueke,Ebonyi,Ezza South,6.16823,8.03142
+Fagge,Kano,Fagge,12.006697,8.529155
+Fakai,Kebbi,Fakai,11.504777,5.111274
+Faskari,Katsina,Faskari,11.719573,7.027157
+Fika,Yobe,Fika,11.2834,11.308
+Fufore,Adamawa,Fufore,9.216667,12.65
+Bajoga,Gombe,Funakaye,10.8509,11.431353
+Funi,Yobe,Fune,11.6678,11.5369
+Funtua,Katsina,Funtua,11.523252,7.30813
+Gabasawa,Kano,Gabasawa,12.178111,8.913983
+Gada,Sokoto,Gada,13.755578,5.66144
+Gagarawa,Jigawa,Gagarawa,12.407411,9.527695
+Gamawa,Bauchi,Gamawa,12.1343,10.5396
+Ganye,Adamawa,Ganaye,8.433333,12.066667
+Ganjuwa,Bauchi,Ganjuwa,10.859426,10.168795
+Garki,Jigawa,Garki,12.436404,9.188838
+Garko,Kano,Garko,11.649175,8.804676
+Garum Mallam,Kano,Garum Mallam,11.68382,8.370506
+Serti,Taraba,Gashaka,7.5,11.366667
+Mutum Biyu,Taraba,Gassol,8.633333,10.766667
+Gwadabawa,Sokoto,Gawabawa,13.35612,5.236642
+Gaya,Kano,Gaya,11.861365,8.99714
+Lemu,Niger,Gbako,9.4,6.033333
+Gboko,Benue,Gboko,7.3179,8.9951
+Ode,Ekiti,Gboyin,7.645671,5.552041
+Geidam,Yobe,Geidam,12.897,11.9304
+Gezawa,Kano,Gezawa,12.033889,8.724444
+Giade,Bauchi,Giade,11.3928,10.1993
+Gombi,Adamawa,Gireri,10.161385,12.739904
+Giwa,Kaduna,Giwa,11.3,7.45
+Kpor,Rivers,Gokana,4.653792,7.283963
+Gombe,Gombe,Gombe,10.28969,11.167288
+Goronyo,Sokoto,Goronyo,13.44232,5.676319
+Gubio,Borno,Gubio,12.499,12.7848
+Balle,Sokoto,Gudu,13.46856,4.678966
+Gujba,Yobe,Gujba,11.5032,11.9367
+Gulani,Yobe,Gulani,10.723884,11.689731
+Gbajimba,Benue,Guma,7.8155,8.8604
+Gumel,Jigawa,Gumel,12.627906,9.391187
+Gummi,Zamfara,Gummi,12.143575,5.108087
+Guri,Jigawa,Guri,12.7267,10.4205
+Gusau,Zamfara,Gusau,12.162784,6.661348
+Guyuk,Adamawa,Guyuk,9.9,11.983333
+Gudumbali,Borno,Guzamala,12.944032,13.184013
+Gwagwalada,Federal Capital Territory,Gwagwalada,8.941389,7.091944
+Gwandu,Kebbi,Gwandu,12.493818,4.642272
+Gwaram,Jigawa,Gwaram,11.276389,9.885833
+Gwarzo,Kano,Gwarzo,11.915214,7.934604
+Aliade,Benue,Gwer East,7.2964,8.487
+Naka,Benue,Gwer West,7.5887,8.2087
+Gwiwa,Jigawa,Gwiwa,12.779959,8.337915
+Gwoza,Borno,Gwoza,11.103593,13.712983
+Azare,Borno,Hawul,10.441423,12.119313
+Hong,Adamawa,Hong,10.231705,12.930419
+"Ofu, River",Kogi,Ibaji,6.791359,6.941511
+Igbo Ora,Oyo,Ibarapa Central,7.433333,3.283333
+Eruwa,Oyo,Ibarapa East,7.533333,3.416667
+Aiyete,Oyo,Ibarapa North,7.55,3.216667
+Ibeju,Lagos,Ibeju/Lekki,6.48701,3.892813
+Ibeno,Akwa lbom,Ibeno,4.568681,7.978594
+Afaha Ibesikpo,Akwa lbom,Ibesikpo Asutan,4.971107,7.935654
+Ibi,Taraba,Ibi,8.183333,9.75
+Oko Ita,Akwa lbom,Ibiono Ibom,5.191052,7.896189
+Idah,Kogi,Idah,7.106508,6.73415
+Owena,Ondo,Idanre,7.195371,5.021736
+Urualla,Imo,Ideato North,5.853128,7.099294
+Dikenafai,Imo,Ideato South,5.767071,7.153128
+Uke,Anambra,Idemili North,6.104633,6.920235
+Umuoji,Anambra,Idemili South,6.1003525,6.8961751
+Osi Ekiti,Ekiti,Idosi-Osi,7.788256,5.158324
+Ifako,Lagos,Ifako-Ijaye,6.643944,3.326431
+Ile-Ife,Osun,Ife Central,7.47664,4.56023
+Ipetumodu,Osun,Ife North,7.516667,4.45
+Ifetedo,Osun,Ife South,7.183333,4.7
+Oke-Ogbo,Osun,Ife East,,
+Oke Ila,Osun,Ifedayo,7.95,4.983333
+Igbara-Oke,Ondo,Ifedore,7.410936,5.061502
+Ikirun,Osun,Ifelodun,7.916667,4.666667
+Share,Kwara,Ifelodun,8.816667,4.983333
+Ifo,Ogun,Ifo,6.814367,3.195753
+Igabi,Kaduna,Igabi,10.788873,7.774931
+Ajaka,Kogi,Igalamela-Odolu,7.1711,6.8265
+Ogbede,Enugu,Igbo-Etiti,6.6703,7.3687
+Enugu-Ezike,Enugu,Igbo-Eze North,6.9825,7.457
+Ibegwa-Aka,Enugu,Igbo-Eze South,6.916667,7.4
+Igueben,Edo,Igueben,6.60096,6.241665
+Ihiala,Anambra,Ihiala,5.853769,6.860265
+Ogbere,Ogun,Ijebu East,6.737858,4.16045
+Ijebu-Igbo,Ogun,Ijebu North,6.979803,4.003292
+Atan,Ogun,Ijebu North East,6.8906413,4.0045918
+Ijebu-Ode,Ogun,Ijebu ode,6.816093,3.915877
+Ijero-Ekiti,Ekiti,Ijero,7.8139,5.0742
+Urua Inyang,Akwa lbom,Ika,5.022022,7.536602
+Owa Oyiebu,Delta,Ika North East,6.180779,6.201218
+Agbor,Delta,Ika South,6.266193,6.150523
+Ikara,Kaduna,Ikara,11.177521,8.226696
+Ihuo,Imo,Ikeduru,5.566667,7.1
+Ikeja,Lagos,Ikeja,6.594222,3.337475
+Ikenne,Ogun,Ikenne,6.865789,3.715179
+Ikere-Ekiti,Ekiti,Ikere,7.491328,5.232248
+Ikole,Ekiti,Ikole,7.7897,5.5106
+Ikom,Cross River,Ikom,5.961,8.7107
+Ikon I,Akwa lbom,Ikono,5.30445,7.748283
+Ikorodu,Lagos,Ikorodu,6.615483,3.508673
+Opobo,Akwa lbom,Ikot Abasi,4.564844,7.547802
+Ikot-Ekpene,Akwa lbom,Ikot Ekpene,5.179381,7.710815
+Idogbo,Edo,Ikpoba-Okha,6.266667,5.716667
+Isiokpo,Rivers,Ikwerre,5.001389,6.87408
+Ikwo,Ebonyi,Ikwo,6.0716,8.1028
+Oboro District Court,Abia,Ikwuano,5.419078,7.559206
+Ila Orangun,Osun,Ila,8.016667,4.9
+Igbokoda,Ondo,Ilaje,6.349648,4.803259
+Iye,Ekiti,Ilemeji,7.943192,5.251644
+Ile Oluji,Ondo,Ile-Oluji-Okeigbo,7.216667,4.866667
+Ilesha,Osun,Ilesha East,7.616667,4.733333
+xx,Osun,Ilesha West,7.625709,4.738735
+Illela,Sokoto,Illela,13.72943,5.29816
+Oke Oyi,Kwara,Ilorin East,8.5812295,4.7158099
+Fufu,Kwara,Ilorin South,,
+"Moro, River",Kwara,Ilorin West,8.566667,4.5
+Imeko,Ogun,Imeko-Afon,7.45,2.85
+Ingawa,Katsina,Ingawa,12.639682,8.050276
+Odoro-Ikpe,Akwa lbom,Ini,5.355348,7.750807
+Ipokia,Ogun,Ipokia,6.533333,2.85
+Irele,Ondo,Irele,6.486944,4.870014
+Kishi,Oyo,Irepo,9.083333,3.85
+Ilala,Kwara,Irepodun,8.333333,4.833333
+Ilobu,Osun,Irepodun,7.833333,4.483333
+Igede,Ekiti,Irepodun/Ifelodun,7.666765,5.132047
+Ikire,Osun,Irewole,7.3675298,4.1853662
+Isa,Sokoto,Isa,13.200294,6.407079
+Ise-Ekiti,Ekiti,Ise/Orun,7.4632,5.4281
+Iseyin,Oyo,Iseyin,7.966667,3.6
+Ezillo,Ebonyi,Ishielu,6.4277,7.7926
+Umu Elemai,Imo,Isiala Mbano,5.683333,7.233333
+Omoba Station,Abia,Isiala-Ngwa North,5.25,7.416667
+Isanlu Isin,Kwara,Isin,8.233333,5.083333
+Ikem,Enugu,Isi-Uzo,6.779029,7.716852
+Apomu,Osun,Isokan,7.333333,4.183333
+Ozoro,Delta,Isoko North,5.541913,6.227493
+Ole,Delta,Isoko South,5.461601,6.207872
+Isu-Njaba,Imo,Isu,5.708173,7.065557
+Nbalano,Abia,Isuikwato,5.731618,7.501615
+Itas,Bauchi,Itas/Gadau,11.859244,9.96648
+Otu,Oyo,Itesiwaju,8.2,3.416667
+Itu,Akwa lbom,Itu,5.200403,7.984746
+Ishiagu,Ebonyi,Ivo,5.952926,7.560108
+Iwere Ile,Oyo,Iwajowa,8,3.083333
+Iwo,Osun,Iwo,7.633333,4.183333
+xx,Ebonyi,Izzi,,
+Kwoi,Kaduna,Jaba,9.45,8
+Jada,Adamawa,Jada,8.766667,12.15
+Jahun,Jigawa,Jahun,12.074122,9.627913
+Jakusko,Yobe,Jakusko,12.3691,10.7731
+Jalingo,Taraba,Jalingo,8.883333,11.366667
+Jamao«oare,Bauchi,Jama'are,11.666667,9.931389
+Jega,Kebbi,Jega,12.2175,4.379167
+Jemaa,Kaduna,Jema'a,9.466667,8.383333
+Jibiya,Katsina,Jibia,13.097778,7.2225
+Jos,Plateau,Jos North,9.933333,8.883333
+Bukuru,Plateau,Jos South,9.8,8.866667
+Kabba,Kogi,Kabba/Bunu,7.828729,6.0731
+Kabo,Kano,Kabo,11.854715,8.169902
+Kachia,Kaduna,Kachia,9.866667,7.95
+Kaduna,Kaduna,Kaduna North,10.522239,7.43828
+Kaduna South,Kaduna,Kaduna South,10.475112,7.419593
+Kaffin-Hausa,Jigawa,Kafin Hausa,12.237531,9.907983
+Kafur,Katsina,Kafur,11.644006,7.694006
+Benisheik,Borno,Kaga,11.8072,12.4909
+Kagarko,Kaduna,Kagarko,9.483333,7.683333
+Kaiama,Kwara,Kaiama,9.6225,3.948056
+Kaita,Katsina,kaita,13.08063,7.75376
+Kajola,Oyo,Kajola,8.083333,3.333333
+Kajuru,Kaduna,Kajuru,10.575977,8.14782
+Kala-Belgue,Borno,Kala/Balge,12.07872,14.451922
+Kalgo,Kebbi,Kalgo,12.32455,4.198068
+Kaltungo,Gombe,Kaltungo,9.883333,11.366667
+Dengi,Plateau,Kanam,9.366667,9.95
+Kankara,Katsina,Kankara,11.930155,7.412671
+Kankiya,Katsina,Kankia,12.543163,7.825429
+Kofar Kudu,Kano,Kano Municipal,12,8.516667
+Karasua,Yobe,Karasuwa,12.9621,10.5611
+Karaye,Kano,Karaye,11.782113,8.016181
+Dani,Taraba,Karin-Lamido,9.416667,10.85
+Karu,Nasarawa,Karu,8.996111,7.575556
+Azare,Bauchi,Katagum,11.6765,10.1948
+Katcha,Niger,Katcha,8.766667,6.316667
+Katsina,Katsina,Katsina,12.989428,7.600628
+Kuagama,Jigawa,Kaugama,12.475427,9.734939
+Kaura Namoda,Zamfara,Kaura-Namoda,12.589788,6.577914
+Kauru,Kaduna,Kauru,10.31921,7.689236
+Kazaure,Jigawa,Kazaure,12.651314,8.416153
+Keana,Nasarawa,Keana,8.133333,8.8
+Kebbe,Sokoto,Kebbe,12.128802,4.735093
+Keffi,Nasarawa,Keffi,8.848611,7.873611
+Bori,Rivers,Khana,4.673663,7.362008
+Kibiya,Kano,Kibiya,11.526292,8.662267
+Kirifi,Bauchi,Kirfi,10.411123,10.392584
+Kiri Kasamma,Jigawa,Kiri Kasamma,12.6932,10.2551
+Kiru,Kano,Kiru,11.700274,8.134759
+Kiyawa,Jigawa,kiyawa,11.782778,9.6125
+Koton Karifi,Kogi,Kogi,8.1,6.8
+Koko,Kebbi,Koko/Besse,11.421544,4.516867
+Opokuma,Bayelsa,Kolokuma/Opokuma,5.076274,6.26406
+Konduga,Borno,Konduga,11.655826,13.421331
+Konshisha,Benue,Konshisha,7.12455,8.686699
+Kontagora,Niger,Kontagora,10.399893,5.469491
+Kubau,Kaduna,Kubau,10.799135,8.153818
+Kudan,Kaduna,Kudan,11.306902,7.731608
+Kuje,Federal Capital Territory,Kuje,8.896389,7.243056
+Kukawa,Borno,Kukawa,12.927,13.5763944
+Kumbotso,Kano,Kumbotso,11.888001,8.502173
+Kunchi,Kano,Kunchi,12.501333,8.271808
+Kura,Kano,Kura,11.769688,8.430333
+Kurfi,Katsina,Kurfi,12.667473,7.48462
+Baissa,Taraba,Kurmi,7.25,10.616667
+Kusada,Katsina,Kusada,12.466062,7.98298
+Kwali,Federal Capital Territory,Kwali,8.867222,7.005
+Mallam Sidi,Gombe,Kwami,10.471048,11.311664
+Adikpo,Benue,Kwande,6.887886,9.235472
+Kware,Sokoto,Kware,13.21297,5.263196
+Kwaya,Borno,Kwaya Kusar,10.497047,11.842191
+Lafia,Nasarawa,Lafia,8.483333,8.516667
+Lagos,Lagos,Lagos Island,6.453056,3.395833
+Lamurde,Adamawa,Lamurde,9.6,11.8
+Langtang,Plateau,Langtang North,9.133333,9.783333
+Lapai,Niger,Lapai,9.066667,6.716667
+Lau,Taraba,Lau,9.216667,11.283333
+Kutigi,Niger,Lavun,9.2,5.6
+Lere,Kaduna,Lere,10.386966,8.572617
+Ugba,Benue,Logo,7.5,9.333333
+Lokoja,Kogi,Lokoja,7.802359,6.743005
+Machina,Yobe,Machina,13.136389,10.04924
+Madagali,Adamawa,Madagali,10.886389,13.63
+Madobi,Kano,Madobi,11.776281,8.288345
+Mafa,Borno,Mafa,12.1,13.7
+Nasko,Niger,Magama,10.487156,4.879207
+Magumeri,Borno,Magumeri,12.1131,12.8274
+Maiaduwa,Katsina,Mai'Adua,13.190545,8.211738
+Maiduguri,Borno,Maiduguri,11.846441,13.160274
+Maigatari,Jigawa,Maigatari,12.807817,9.461662
+Maiha,Adamawa,Maiha,9.995556,13.218056
+Maiyama,Kebbi,Maiyama,12.08283,4.36905
+Makoda,Kano,Makoda,12.418681,8.432528
+Makurdi,Benue,Makurdi,7.7411,8.5121
+Malam-Maduri,Jigawa,Malam Madori,12.564999,9.957291
+Malumfashi,Katsina,Malumfashi,11.785288,7.621753
+Mongu,Plateau,Mangu,9.516667,9.1
+Mani,Katsina,Mani,12.853184,7.87737
+Maradun,Zamfara,Maradun,12.565667,6.243954
+Mariga,Niger,Mariga,10.133741,6.02475
+Makarfi,Kaduna,Markafi,11.370074,7.883787
+Marte,Borno,Marte,12.36113,13.8246
+Maru,Zamfara,Maru,12.334166,6.405686
+Mashi,Katsina,Mashi,12.978439,7.952926
+Matazu,Katsina,Matazuu,12.233938,7.674185
+Mayo Belwa,Adamawa,Mayo-Belwa,9.05,12.05
+Mbo,Akwa lbom,Mbo,4.6623,8.3125
+Michika,Adamawa,Michika,10.615919,13.384905
+Miga,Jigawa,Miga,12.239284,9.712179
+Minjibir,Kano,Minjibir,12.178191,8.659182
+Misau,Bauchi,Misau,11.3163,10.4703
+Mkpat Enin,Akwa lbom,Mkpat Enin,4.733853,7.748607
+Otun,Ekiti,Moba,7.987706,5.129883
+Damasak,Borno,Mobbar,13.097706,12.495205
+Mokwa,Niger,Mokwa,9.283333,5.05
+Monguno,Borno,Monguno,12.67863,13.607917
+Mopa,Kogi,Mopa-Muro,8.1,5.9
+Mubi,Adamawa,Mubi North,10.267607,13.26436
+Musawa,Katsina,Musawa,12.127174,7.669797
+Mushin,Lagos,Mushin,6.526262,3.357141
+Nafada,Gombe,Nafada,11.0956,11.3327
+Nangere,Yobe,Nangere,11.864,11.0698
+Bompai,Kano,Nasarawa,12.0114921,8.554573
+Nassarawa,Nasarawa,Nasarawa,8.529444,7.724167
+Nassarawan Eggon,Nasarawa,Nasarawa-Eggon,8.716667,8.533333
+Aboh,Delta,Ndokwa East,5.546392,6.52812
+Kwale,Delta,Ndokwa West,5.706322,6.43741
+Nembe,Bayelsa,Nembe,4.539402,6.400344
+Ngala,Borno,Ngala,12.121809,14.191703
+Gajiram,Borno,Nganzai,12.493028,13.209141
+Ngaski,Kebbi,Ngaski,10.407089,4.717807
+Umu Neke,Imo,Ngor-Okpala,5.332122,7.144652
+Nguru,Yobe,Nguru,12.8791,10.4526
+Ningi,Bauchi,Ningi,10.968786,9.386608
+Abagana,Anambra,Njikoka,6.184196,6.976553
+Amagunze,Enugu,Nkanu East,6.3267,7.6539
+Agbani,Enugu,Nkanu West,6.307904,7.551934
+Nkwerre,Imo,Nkwerre,5.75555,7.106273
+Nnewi,Anambra,Nnewi North,6.019864,6.914775
+Ukpor,Anambra,Nnewi South,5.940698,6.929337
+Odot,Akwa lbom,Nsit Atai,4.829981,8.038977
+Nsukka,Enugu,Nsukka,6.8561,7.3927
+Numan,Adamawa,Numan,9.466667,12.033333
+Owode,Ogun,Obafemi-Owode,6.948637,3.505113
+Sankwala,Cross River,Obanliku,6.5476,9.224
+Obi,Nasarawa,Obi,8.366667,8.766667
+Obi,Benue,Obi,7.0107301,8.3284899
+Mgboko,Abia,Obi Ngwa,5.1518762,7.4569642
+Obia,Rivers,Obia/Akpor,4.839344,7.041239
+Ibokun,Osun,Obokun,7.783333,4.716667
+Obot-Akara,Akwa lbom,Obot Akara,5.271813,7.658292
+Obubra,Cross River,Obubra,6.075254,8.329038
+Obudu,Cross River,Obudu,6.66737,9.17157
+Odeda,Ogun,Odeda,7.233333,3.533333
+Ore,Ondo,Odigbo,6.745692,4.877482
+Odogbolu,Ogun,Odogbolu,6.836544,3.764057
+Okuku Railway Stati,Osun,Odo-Otin,8.033333,4.683333
+Odukpani,Cross River,Odukpani,5.131955,8.339537
+Offa,Kwara,Offa,8.15,4.716667
+Gwalawo,Kogi,Ofu,7.2357,6.9256
+Omoku,Rivers,Ogba/Egbema/Ndoni,5.343504,6.653208
+Otukpa,Benue,Ogbadibo,7.089209,7.649886
+Atani,Anambra,Ogbaru,6.015773,6.744589
+Ogbia,Bayelsa,Ogbia,4.6880898,6.3163666
+Ogbomoso,Oyo,Ogbomosho North,8.133333,4.266667
+xx,Oyo,Ogbomosho South,8.111,4.2333868
+Ajawa,Oyo,Ogo Oluwa,7.933333,4.133333
+Ogoja,Cross River,Ogoja,6.654706,8.797645
+Ogori,Kogi,Ogori/Mangongo,7.4588,6.1876
+Ogu,Rivers,Ogu/Bolo,4.730551,7.196655
+Abigi,Ogun,Ogun waterside,6.48122,4.396654
+Oguta,Imo,Oguta,5.708901,6.810265
+Ebem,Abia,Ohafia,5.634443,7.828994
+Ose-Mmahu,Imo,Ohaji/Egbema,5.539849,6.725487
+Uburu,Ebonyi,Ohaozara,6.0446,7.7692
+Ezamgbo,Ebonyi,Ohaukwu,6.3945,7.9765
+Oji River,Enugu,Oji-River,6.2611,7.261
+Ojo,Lagos,Ojo,6.453819,3.205846
+Oju,Benue,Oju,6.84543,8.417355
+Ilofa,Kwara,Oke-Ero,8.1,5.15
+Okene,Kogi,Okene,7.5456,6.2538
+Okigwi,Imo,Okigwe,5.835234,7.359889
+Okitipupa,Ondo,Okitipupa,6.504748,4.78391
+Okobo,Akwa lbom,Okobo,4.824914,8.110569
+Orerokpe,Delta,Okpe,5.635058,5.889557
+Okrika,Rivers,Okrika,4.741589,7.084877
+Okpo,Kogi,Olamabolo,7.1844,7.5596
+Ibode-Osi,Osun,Ola-oluwa,7.75,4.233333
+Igbeti,Oyo,Olorunsogo,8.75,4.133333
+Idi Ayunre,Oyo,Oluyole,7.233333,3.866667
+Abejukolo,Kogi,Omala,7.817983,7.530927
+Eberi,Rivers,Omumma,5.090716,7.234847
+Akanran,Oyo,Ona-Ara,7.283333,4.033333
+Bolorunduro,Ondo,Ondo East,7.166667,4.966667
+Ondo,Ondo,Ondo West,7.1,4.833333
+Isu,Ebonyi,Onicha,6.166667,7.816667
+Onitsha,Anambra,Onitsha North,6.14543,6.788452
+xx,Anambra,Onitsha South,6.1355731,6.7863536
+\,Akwa lbom,Onna,4.616312,7.866794
+Nkoro,Rivers,Opobo/Nkoro,,
+Benin City,Edo,Oredo,6.335045,5.627492
+Igboho,Oyo,Orelope,8.833333,3.75
+Abudu,Edo,Orhionmwon,6.29343,6.036358
+Ikoyi,Oyo,Ori Ire,8.25,4.166667
+Ijebu Ijesha,Osun,Oriade,7.683333,4.816667
+Orlu,Imo,Orlu,5.794635,7.034947
+Ifon,Osun,Orolu,7.866667,4.483333
+Oron,Akwa lbom,Oron,4.825614,8.234345
+Awo Idemiri,Imo,Orsu,5.823884,6.935979
+Omuma,Imo,Oru East,5.756909,6.947511
+Mgbidi,Imo,Oru West,5.730125,6.890952
+Ikot Ibritam,Akwa lbom,Oruk Anam,4.80555,7.615943
+Ufuma,Anambra,Orumba North,6.084792,7.20294
+Umueje,Anambra,Orumba South,6.024142,7.266681
+Ifon,Ondo,Ose,6.924119,5.776032
+Akwukwu-Igbo,Delta,Oshimili North,6.355421,6.591061
+Asaba,Delta,Oshimili South,6.200643,6.733845
+Oshodi,Lagos,Oshodi-Isolo,6.558174,3.346625
+Osogbo,Osun,Osogbo,7.766667,4.566667
+Oturkpo,Benue,Oturkpo,7.1914,8.1333
+Okada,Edo,Ovia North East,6.732728,5.389892
+Iguobazowa,Edo,Ovia South West,6.565962,5.353424
+Afuze,Edo,Owan East,6.967512,6.043194
+Sabongida Ora,Edo,Owan West,6.9012717,5.9275923
+Umuoguma,Imo,Owerri West,5.467787,6.967603
+Owerri,Imo,Owerri-Municipal,5.483333,7.030407
+Orie Uratta,Imo,Owerri_North,5.5273999,7.0572996
+Owo,Ondo,Owo,7.196195,5.586806
+Oye,Ekiti,Oye,7.799765,5.332422
+Nkwelle,Anambra,Oyi,6.2141814,6.8511421
+Obigbo,Rivers,Oyigbo,4.875448,7.148817
+Oyo,Oyo,Oyo West,7.85,3.933333
+Ilemona,Kwara,Oyun,8.1086997,4.6602105
+Pankshin,Plateau,Pankshin,9.333333,9.45
+Patani,Delta,Patani,5.227239,6.192382
+Pategi,Kwara,Pategi,8.733333,5.75
+Port Harcourt,Rivers,Port-Harcourt,4.777423,7.013404
+Potiskum,Yobe,Potiskum,11.7091,11.0694
+Rabah,Sokoto,Rabah,13.121329,5.507414
+Kagara,Niger,Rafi,10.18437,6.253361
+Rano,Kano,Rano,11.54912,8.574642
+Isara,Ogun,Remo North,6.992808,3.681853
+Rijau,Niger,Rijau,11.10298,5.250681
+Rimi,Katsina,Rimi,12.84884,7.71485
+Rimin Gado,Kano,Rimin Gado,11.963873,8.250295
+Ringim,Jigawa,Ringim,12.154818,9.161915
+Riyom,Plateau,Riyom,9.6367143,8.7601378
+Rogo,Kano,Rogo,11.553135,7.825069
+Roni,Jigawa,Roni,12.6571,8.265308
+Sabon Birni,Sokoto,Sabon Birni,13.561045,6.325007
+Sabon Gari,Kaduna,Sabon-Gari,11.116667,7.733333
+Sabuwa,Katsina,Sabuwa,11.1747,7.12371
+Safana,Katsina,Safana,12.960438,8.362121
+Sagbama,Bayelsa,Sagbama,5.163299,6.21259
+Sakaba,Kebbi,Sakaba,11.066667,5.6
+Ago-Amodu,Oyo,Saki East,8.616667,3.616667
+Saki,Oyo,Saki West,8.666667,3.383333
+Sandamu,Katsina,Sandamu,12.40798,7.41699
+Sanga,Kaduna,Sanga,9.316667,8.45
+Sapele,Delta,Sapele,5.894053,5.67666
+Gembu,Taraba,Sardauna,6.7,11.266667
+Shagamu,Ogun,Shagamu,6.843226,3.647763
+Shagari,Sokoto,Shagari,12.62746,4.993586
+Shanga,Kebbi,Shanga,11.210619,4.578776
+Shani,Borno,Shani,10.216171,12.061982
+Shanono,Kano,Shanono,12.049697,7.994029
+Shelleng,Adamawa,Shelleng,9.8975,12.008889
+Shendam,Plateau,Shendam,8.883333,9.533333
+Shinkafi,Zamfara,Shinkafi,13.075339,6.510465
+Shira,Bauchi,Shira,11.4583,10.0468
+Shiroro,Niger,Shiroro,9.961667,6.836944
+Chongwom,Gombe,Shomgom,9.783333,11.25
+Shomolu,Lagos,Shomolu,6.540278,3.371667
+Silame,Sokoto,Silame,13.037218,4.843895
+Soba,Kaduna,Soba,10.981335,8.057494
+Sarkin Samfara,Sokoto,Sokoto South,13.05367,5.23777
+Sokoto,Sokoto,Sokoto North,13.066667,5.233333
+Song,Adamawa,Song,9.824444,12.625
+Oporoma,Bayelsa,Southern Ijaw,4.804722,6.078889
+Suleja,Niger,Suleja,9.175833,7.180833
+Abuja,Niger,Suleja,9.175833,7.180833
+Sule Tankarka,Jigawa,Sule-Tankarkar,12.668975,9.226426
+Sumaila,Kano,Sumaila,11.527557,8.956326
+Suru,Kebbi,Suru,11.923972,4.182165
+Suru-Lere,Lagos,Surulere,6.5035133,3.3571665
+Iresa,Oyo,Surulere,8.083333,4.4
+Tafawa-Balewa,Bauchi,Tafawa-Balewa,9.758333,9.557222
+Okoloma-Tai,Rivers,Tai,4.766061,7.280003
+Takai,Kano,Takali,11.583333,9.116667
+Takum,Taraba,Takum,7.266667,9.983333
+Talata Mafara,Zamfara,Talata Mafara,12.573167,6.05971
+Tambuwal,Sokoto,Tambuwal,12.403858,4.64692
+Tangaza,Sokoto,Tangaza,13.365305,4.937319
+Wannune,Benue,Tarka,7.5618,8.8887
+Babban Gida,Yobe,Tarmua,12.1076,11.7539
+Taura,Jigawa,Taura,12.227216,9.280571
+Tofa,Kano,Tofa,12.057377,8.273131
+Toro,Bauchi,Toro,10.054517,9.060434
+Toto,Nasarawa,Toto,8.378889,7.084444
+Toungo,Adamawa,Toungo,8.116667,12.05
+Chafe,Zamfara,Tsafe,11.955273,6.922322
+Tsanyawa,Kano,Tsanyawa,12.293593,7.987521
+Tudun Wada,Kano,Tudun Wada,11.243376,8.403849
+Tureta,Sokoto,Tureta,12.591351,5.54431
+Obolo,Enugu,Udenu,6.915427,7.519413
+Udi,Enugu,Udi,6.3144,7.4258
+Otor Udu,Delta,Udu,5.452724,5.869573
+Udung Uko,Akwa lbom,Udung Uko,4.75801,8.242555
+Ughelli,Delta,Ughelli North,5.489857,6.00743
+Otujeremi,Delta,Ughelli South,5.4352802,5.8792605
+Ehor,Edo,Uhunmwonde,6.615559,5.983837
+Ukanafun,Akwa lbom,Ukanafun,5.002799,7.743885
+Zaki Biam,Benue,Ukum,7.516667,9.616667
+Akwete,Abia,Ukwa East,4.886881,7.356864
+Oke Ikpe,Abia,Ukwa West,,
+Obiaruku,Delta,Ukwuani,5.846712,6.152566
+Umuahia,Abia,Umuahia North,5.526269,7.489589
+Ishiagu,Abia,Umu-Neochi,5.940616,7.539923
+Ungogo,Kano,Ungogo,12.090534,8.496641
+Okwe,Imo,Unuimo,5.768701,7.217474
+Abak-Ibiaku Uruan,Akwa lbom,Uruan,5.078525,7.938705
+Oruko,Akwa lbom,Urue-Offong/Oruko,4.711207,8.179307
+Lissam,Taraba,Ussa,7.183333,10.033333
+Effurun,Delta,Uvwie,5.554632,5.786239
+Uyo,Akwa lbom,Uyo,5.033333,7.92657
+Umulokpa,Enugu,Uzo-Uwani,6.5062,7.1002
+Vande Ikya,Benue,Vandeikya,6.783844,9.067649
+Wamako,Sokoto,Wamako,13.028737,5.105336
+Wamba,Nasarawa,Wamba,8.933333,8.6
+Warji,Bauchi,Warji,11.183333,9.75
+Koko,Delta,Warri North,6.001093,5.467541
+Warri,Delta,Warri South,5.516667,5.75
+Ogbe-Ijoh,Delta,Warri South West,,
+Wasagu,Kebbi,Wasagu/Danko,11.376399,5.795361
+Wase,Plateau,Wase,9.1,9.966667
+Wudil,Kano,Wudil,11.810671,8.84505
+Wukari,Taraba,Wukari,7.85,9.783333
+Wurno,Sokoto,Wurno,13.28777,5.423262
+Wushishi,Niger,Wushishi,9.720556,6.079722
+Yabo,Sokoto,Yabo,12.721667,5.015556
+Isanlu Itedo,Kogi,Yagba East,8.283333,5.833333
+Odo Ere,Kogi,Yagba West,8.25,5.55
+Ugep,Cross River,Yakurr,5.8086,8.0812
+Otukpo,Cross River,Yala,6.815,8.6531
+Deba Habe,Gombe,Yamaltu/Deba,10.208644,11.385859
+Yankwashi,Jigawa,Yankwashi,12.742809,8.539973
+Yelwa,Kebbi,Yauri,10.835918,4.739019
+Yenagoa,Bayelsa,Yenegoa,4.924722,6.264167
+Yola,Adamawa,Yola North,9.23,12.46
+xx,Adamawa,Yola South,,
+Yorro,Taraba,Yorro,8.716667,11.616667
+Yusufari,Yobe,Yusufari,13.0683,11.1758
+Katagum,Bauchi,Zaki,12.2867,10.3527
+Zango,Katsina,Zango,13.051512,8.487646
+Zangon Katab,Kaduna,Zango-Kataf,9.833333,8.4
+Zaria Native Area N,Kaduna,Zaria,11.066667,7.7
+Zing,Taraba,Zing,8.9,11.7
+Zurmi,Zamfara,Zurmi,12.777604,6.783401
+Zuru,Kebbi,Zuru,11.424065,5.228786
+Tunkus,Plateau,Mikang,9.02279,9.61604
+Baap,Plateau,Qua'an Pan,8.94855,9.24445
+Mabudi,Plateau,Langtang South,8.73005,9.78698
+New Karu,Nasarawa,Karu,9.027093,7.5989561
+Angware,Plateau,Jos East,9.99055,9.10923
+Kaura,Kaduna,Kaura,9.6283318,8.5020366
+Sarkin Pawa,Niger,Munya,10.016122,7.107265
+Paiko,Niger,Paikoro,9.433333,6.633333
+Gawu,Niger,Gurara,9.27892,6.99464
+Obangede,Kogi,Okehi,7.6211,6.19924
+Gwammaja,Kano,Dala,12.01989,8.50864
+Unguwa Uku,Kano,Tarauni,11.9585,8.57134
+Gwale,Kano,Gwale,11.98638,8.50638
+Girei,Adamawa,Girei,9.366667,12.55
+Biriyel,Borno,Bayo,10.34661,11.61227
+Sunkani,Taraba,Ardo Kola,8.70487,11.2604
+Katsina-Ala,Benue,Katsina-Ala,7.18051,9.30804
+Lessel,Benue,Ushongo,7.12767,9.02259
+Ugbodo,Ebonyi,Ebonyi,,
+Itigidi,Cross River,Abi,5.8828,8.0214
+Akpet Central,Cross River,Biase,5.61928,8.10402
+Esit Eket,Akwa lbom,Esit Eket,4.6580703,8.0583828
+xx,Akwa lbom,Nsit Ubium,4.7721871,7.9274893
+Buguma,Rivers,Asari-Toru,4.734071,6.863451
+Osisioma,Abia,Osisioma Ngwa,5.15466,7.32795
+Aboh,Imo,Aboh Mbaise,5.4545946,7.2360114
+Okpuala- Ngwa,Abia,Isiala Ngwa North,5.349972,7.3751178
+Amaigbo,Imo,Nwangele,5.725603,7.1172372
+Otoko,Imo,Obowo,5.5538986,7.3874379
+Apumuri,Abia,Umuahia South,5.4749746,7.4345845
+Nnenasa,Imo,Njaba,5.7370148,7.0123632
+Nwaorieubi,Imo,Mbaitoli,5.5853705,7.0442238
+Osogbo,Osun,Olorunda,7.7819983,4.5521941
+Kanamma ,Yobe,Yunusari,13.0988061,12.1081153
+xx,Kwara,Moro,8.7067014,4.4696835
+Iyana Offa,Oyo,Lagelu,7.4952993,4.0787075
+Kosofe,Lagos,Kosofe,6.5825146,3.3828636
+xx,Lagos,Ajeromi-Ifelodun,6.4511844,3.332414
+xx,Lagos,Lagos Mainland,6.4946044,3.3791273
+xx,Oyo,Oyo East,7.8374016,3.944
+Isinweke,Imo,Ihitte/Uboma,5.6228226,7.3494082
+Iyara,Kogi,Ijumu,7.8442334,5.9726305
+Idekpa-Okpiko,Benue,Ohimini,7.2300211,7.9285769
+Agodi,Oyo,Ibadan North,7.4045263,3.9317268
+Iwo Road,Oyo,Ibadan North-East,,
+Dugbe/Onireke,Oyo,Ibadan North-West,7.3927199,3.8774856
+Mapo Hall,Oyo,Ibadan South-East,,
+Ibadan,Oyo,Ibadan South-West,7.3676277,3.8603157
