@@ -1,0 +1,48 @@
+County,FormerProvince,area,population,Capital,latitude,longitude
+Mombasa(County),Coast,212.5,"939,370",Mombasa(City),-4.0692492,39.6749547
+Kwale,Coast,"8,270.30","649,931",Kwale,-4.179892,39.4516467
+Kilifi,Coast,"12,245.90","1,109,735",Kilifi,-3.6274957,39.8454855
+Tana River,Coast,"35,375.80","240,075",Hola,-1.4971155,40.0342101
+Lamu,Coast,"6,497.70","101,539",Lamu,-2.2808814,40.9060587
+Taita-Taveta,Coast,"17,083.90","284,657",Mwatate,-3.504448,38.3747394
+Garissa,North Eastern,"45,720.20","623,060",Garissa,-0.4710356,39.644892
+Wajir,North Eastern,"55,840.60","661,941",Wajir,1.7482441,40.0581631
+Mandera,North Eastern,"25,797.70","1,025,756",Mandera,3.9382194,41.8602056
+Marsabit,Eastern,"66,923.10","291,166",Marsabit,2.3303374,37.9828047
+Isiolo,Eastern,"25,336.10","143,294",Isiolo,0.354081,37.5847875
+Meru,Eastern,"6,930.10","1,356,301",Meru,0.0473678,37.6499587
+Tharaka-Nithi,Eastern,"2,409.50","365,330",Kathwana,-0.328546,37.8625016
+Embu,Eastern,"2,555.90","516,212",Embu,-0.5337904,37.4481651
+Kitui,Eastern,"24,385.10","1,012,709",Kitui,-1.3646922,38.0131033
+Machakos,Eastern,"5,952.90","1,098,584",Machakos,-1.5173819,37.2665752
+Makueni,Eastern,"8,008.90","884,527",Wote,-1.7831933,37.6256108
+Nyandarua,Central,"3,107.70","596,268",Ol Kalou,-0.2747645,36.3745367
+Nyeri,Central,"2,361.00","693,558",Nyeri,-0.4209364,36.9502995
+Kirinyaga,Central,"1,205.40","528,054",Kerugoya / Kutus,-0.4965296,37.2803771
+Murang'a,Central,"2,325.80","942,581",Murang'a,-0.7201379,37.1561638
+Kiambu,Central,"2,449.20","1,623,282",Kiambu,-1.1730823,36.8319412
+Turkana,Rift Valley,"71,597.80","855,399",Lodwar,3.1177687,35.6011668
+West Pokot,Rift Valley,"8,418.20","512,690",Kapenguria,1.2415618,35.1177066
+Samburu,Rift Valley,"20,182.50","223,947",Maralal,1.0910782,36.6931933
+Trans-Nzoia,Rift Valley,"2,469.90","818,757",Kitale,1.0170761,35.002019
+Uasin Gishu,Rift Valley,"2,955.30","894,179",Eldoret,0.5270932,35.2755553
+Elgeyo-Marakwet,Rift Valley,"3,049.70","369,998",Iten,0.6712178,35.5075317
+Nandi,Rift Valley,"2,884.50","752,965",Kapsabet,0.2010419,35.0956749
+Baringo,Rift Valley,"11,075.30","555,561",Kabarnet,0.4936377,35.7411868
+Laikipia,Rift Valley,"8,696.10","399,227",Rumuruti,0.2638296,36.5393059
+Nakuru,Rift Valley,"7,509.50","1,603,325",Nakuru,-0.285848,36.0638858
+Narok,Rift Valley,"17,921.20","850,920",Narok,-1.077698,35.8622652
+Kajiado,Rift Valley,"21,292.70","687,312",Kajiado,-1.8408242,36.7896037
+Kericho,Rift Valley,"2,454.50","752,396",Kericho,-0.3677819,35.2846258
+Bomet,Rift Valley,"1,997.90","730,129",Bomet,-0.7854174,35.3349387
+Kakamega,Western,"3,033.80","1,660,651",Kakamega,0.2826233,34.7514215
+Vihiga,Western,531.3,"554,622",Vihiga,0.0820229,34.7203374
+Bungoma,Western,"2,206.90","1,375,063",Bungoma,0.5700164,34.5568694
+Busia,Western,"1,628.40","743,946",Busia,0.4616632,34.105284
+Siaya,Nyanza,"2,496.10","842,304",Siaya,0.0585741,34.2840467
+Kisumu,Nyanza,"2,009.50","968,909",Kisumu(City),-0.1037906,34.7528064
+Homa Bay,Nyanza,"3,154.70","963,794",Homa Bay,-0.5305789,34.4589829
+Migori,Nyanza,"2,586.40","917,170",Migori,-1.0649039,34.4758531
+Kisii,Nyanza,"1,317.90","1,152,282",Kisii,-0.6776067,34.7694754
+Nyamira,Nyanza,912.5,"598,252",Nyamira,-0.5586413,34.9276298
+Nairobi(County),Nairobi(Province),694.9,"3,138,369",Nairobi(City),-1.2865649,36.8193013

@@ -1,0 +1,355 @@
+County,"Constituency
+Code",Constituency   Name,Office Location,Most Conspicuous Landmark,"Estimated Distance From The Land
+Mark To Constituency  Office",latitude,longitude
+Kwale,8,Lunga Lunga,Opposite Lunga Lunga Matatu Stage On The Main Road To Tanzania,Lunga Lunga Petrol Station,,-4.552417,39.1241539
+Kwale,7,Msambweni,Msambweni,Youth Office,,-4.4787477,39.4812886
+Kwale,9,Matuga,Opposite Kwale County Government Office,Ministry Of Finance Office Kwale County,,-4.1756049,39.4531919
+Kwale,10,Kinango,"Kinango Town,Next To Ministry Of Lands 1st Floor,At Junction Off- Kinango Ndavaya Road","Kinango Town,Next To Ministry Of Lands 1st
+Floor,At Junction Off-Kinango Ndavaya Road",,-4.1382619,39.3162401
+Mombasa,5,Likoni,Likoni School For The Blind,Likoni Police Station,,-4.0796081,39.6582117
+Mombasa,6,Mvita,Baluchi Complex,Central Ploice Station,,-4.0617067,39.6733368
+Mombasa,4,Nyali,Links Road West Bank Villa,Mamba Village,,-4.0427478,39.7001693
+Mombasa,1,Changamwe,Changamwe At The Fire Station,Changamwe Fire Station,,-4.0276097,39.6284622
+Mombasa,3,Kisauni,"Along Dr. Felix Mandi Avenue,Behind  The District H/Q Kisauni, Bamburi Mtamboni.",District H/Q,,-4.0015543,39.7139236
+Mombasa,2,Jomvu,Mkindani At The Ap Post,Mkindani Ap Post,,-4.0014398,39.6302559
+Kilifi,12,Kilifi South,Opposite Co-Operative Bank,Mtwapa Police Station,1 Km,-3.940319,39.7445067
+Kilifi,14,Rabai,Rabai District Hqs,Kombeni Girls Sec School,500 M (0.5 Km),-3.9302938,39.569149
+Kilifi,13,Kaloleni,Opposite St John Ack Church,St. Johns Ack Church,100m,-3.8134306,39.633048
+Kilifi,11,Kilifi North,Next To County Commissioners   Office,Kilifi Bridge,500m,-3.6322387,39.8512401
+Kilifi,15,Ganze,Ganze Commissioners  Sub County Office,Ganze,500m,-3.5432079,39.6921647
+Taita Taveta,25,Mwatate,Levi Building Along Mwatate Wundayi Road,"Kenyatta High School, Mwatate",,-3.50136,38.3769498
+Taita Taveta,24,Wundanyi,Iebc Building Next To Dos Office Wundanyi,Dos Office,,-3.4000141,38.3616469
+Taita Taveta,23,Taveta,Taveta Railway Station,Taveta Railway Station Godown No.2,,-3.3950955,37.6745279
+Taita Taveta,26,Voi,Scripture Mission - Voi,Coast Institute Of Technology (Cit),,-3.3829167,38.5747146
+Kilifi,16,Malindi,Opposite  Malindi Law Court,Malindi Law Court,30m,-3.219181,40.1147019
+Kilifi,17,Magarini,Near Mwembe Resort,Catholic Institute,300m,-3.2040291,40.1074524
+Kajiado,187,Kajiado South,Ddo's Office - Loitoktok,Ddo's Office - Loitoktok,0 Km,-2.9252238,37.5100542
+Makueni,88,Kibwezi East,Kambu Town  Between Mtito Andei And Machinery,Baobab Tree,500metres,-2.5948696,38.0748794
+Makueni,87,Kibwezi West,Makindu Town (Lower Market),Makindu Secondary School,1km,-2.2798579,37.8203334
+Tana River,18,Garsen,Garsen Behind Methodist Church,Methodist Church,100m,-2.2692934,40.1093114
+Lamu,22,Lamu West,Mokowe  Cooperative Building,Police Post,100 M.,-2.2359853,40.8460966
+Kitui,74,Kitui South,Ikutha Town,Deputy County Commissioner’s  Office,Same Compound,-2.0647573,38.1747865
+Lamu,21,Lamu East,Faza Town,Registration Of Persons Office,100 Metres,-2.0561739,41.1108492
+Makueni,84,Kilome,Salama Town (Nzai House) Along Mombasa Road,Salama Police Station,100metres,-1.8523271,37.259414
+Kajiado,184,Kajiado Central,Ack Church -Kajiado,Ack Church -Kajiado Town,0 Km,-1.841999,36.7898365
+Makueni,86,Makueni,Opposite Makueni Hospital,Makueni Hospital,100metres,-1.781339,37.6265117
+Makueni,85,Kaiti,Mukuyuni Market Along Machakos – Wote Road,Mukuyuni Patrol Base,100metres,-1.7478021,37.461493
+Kajiado,185,Kajiado East,Masaai Rural Training Centre-Isinya,Masaai Rural Training Centre-Isinya,0 Km,-1.6874397,36.8460387
+Makueni,83,Mbooni,Tawa Social Hall,Tawa Police Post,20metres,-1.5486605,37.4655247
+Machakos,81,Machakos Town,Along Machakos Teachers  College Road,Machakos Teachers College,50metres,-1.5084689,37.2567173
+Tana River,19,Galole,Hola Town,Tana River,1 Km,-1.5003603,40.0296649
+Machakos,80,Mavoko,"Athi River Town Hippo Dam House – First Floor Opposite Athi River
+Market",Athi River Market,100metres,-1.4565268,36.973528
+Kajiado,186,Kajiado West,St Mary's Catholic Church - Kiserian,St Mary's Catholic Church - Kiserian,0 Km,-1.4290266,36.6874778
+Machakos,79,Kathiani,Dc’s Office,Dc’s Office,Same Compound,-1.4118122,37.3299766
+Kitui,,Kitui East,Nzambani District Hqs.,Deputy County Commissioner’s  Office,Same Compound,-1.4097417,38.0488446
+Kitui,72,Kitui Central,"Kitui Town  Along Hospital Road Opposite Kafoca Hotel  And Kitui
+Law Courts",Kafoca Hotel & Kitui Law Courts,500metres,-1.367174,38.0085044
+Kajiado,183,Kajiado North,D.C's Office-Ngong,D.C's Office-Ngong,0 Km,-1.3608059,36.6548103
+Kitui,70,Kitui West,Matinyani Market Maendeleo Hall,Matinyani Market Centre,100metres,-1.3086389,37.9915853
+Machakos,77,Kangundo,Ministry Of Public Works Next Kangundo Probation Office,Kangundo Dc’s Office,500metres,-1.302515,37.3450296
+Machakos,78,Matungulu,Tala  Market Opposite East Mart Supermarket,East Mart Supermarket,5metres,-1.2672043,37.3196378
+Migori,260,Kuria East,Dc's Compound,Kegonga Town,Same Copound,-1.2615099,34.6533378
+Kiambu,120,Kikuyu,Kikuyu,K-Unity House,K-Unity House 1st Floor,-1.2481068,36.6784886
+Kiambu,119,Kabete,Kabete,Rythms College,"Kabete Shopping Center Gachio Stage
+Opposite Rythms College",-1.2387646,36.7267763
+Migori,259,Kuria West,Next To Kehancha Law Court,Kehancha Town,50 M,-1.193962,34.6183293
+Machakos,76,Yatta,Yatta District Hqs - Kithimani,Masii – Kithimani Junction,500metres,-1.1836873,37.4436378
+Kiambu,118,Kiambaa,Karuri,Karurui Highschool,"County Council Revenue
+Officesopposite  Karuri Highschool",-1.1760727,36.7533932
+Kiambu,117,Kiambu,Kiambu,Mapa House,Mappa House Building 4th Floor,-1.1721481,36.8297294
+Kiambu,115,Ruiru,Ruiru,Dcs Office,50m Opposite Dcs Office,-1.1489166,36.960293
+Kiambu,121,Limuru,Limuru,Limuru Law Courts,"Within The Ministry Of Public Works, Behind Limuru Law Courts",-1.1088957,36.6413389
+Kiambu,113,Juja,Juja,Senate  Hotel,"Menja Vission Plaza Opposite Senate
+Hotel",-1.10409,37.0139426
+Kitui,68,Mwingi West,Migwani Behind Catholic Church,Catholic Church,300metres,-1.096058,38.0197426
+Narok,180,Narok East,Ntulele Township(Opposite Ntulele Police Station),Police Station,100 Metres,-1.0954396,36.0848292
+Tana River,20,Bura,Bura Irrigation Scheme,Bura Irrigation Scheme,,-1.0940946,39.9398113
+Narok,179,Narok North,Narok Town Next To County Commisioner’soffice,County Comm Office Narok,100 Metres,-1.0904212,35.8707906
+Migori,256,Suna West,Cereal Board's Compound,Migori Town,Same Copound,-1.0680582,34.4701903
+Kiambu,116,Githunguri,Githunguri,Best West Bldg.,"Best West Building ( Githunguri
+Kiambaa Road)",-1.059158,36.7760173
+Kiambu,114,Thika Town,Thika Town,Stadium,"Assistant County Commissioners
+Offices Opposite Thika Statdium",-1.0386642,37.0821618
+Narok,178,Emurua Dikirr,Emurua Dikirr (Dc’s Office),Dc's Office,Same Building,-1.0141815,35.1018122
+Kiambu,111,Gatundu South,Gatundu,East View Building Ground Flr,"East View Building Ground Flr
+Opposite Knut Offices",-1.0130099,36.9044645
+Narok,177,Kilgoris,Kilgoris County Offices Behind Jipa Petrol Station,Jipa Petrol Station,50 Metres,-1.0083454,34.8791514
+Migori,258,Nyatike,Dc's Compound,Nyatike Town,Same Copound,-1.0046401,34.1754183
+Narok,181,Narok South,(Next To Olololunga District Hospital),District Hospital,20 Metres,-1.0031325,35.6617928
+Kiambu,122,Lari,Kimende,K-Unity House,K-Unity House 1st Floor,-0.9832237,36.6304965
+Machakos,75,Masinga,Masinga Market,Masinga Police Station,200metres,-0.9741717,37.6034546
+Kiambu,112,Gatundu North,Kamwangi,Within Gatundu North Dc's Compound,Within Gatundu North Dc's Compound Next To Kamwangi Market Along Thika Naivasha Road.,-0.9582292,36.8982395
+Migori,257,Uriri,Opposite Dc's Compound,Uriri Town,40 M,-0.9537247,34.5111076
+Kitui,69,Mwingi Central,"Along Tseikuru Road Opposite National Cereals & Produce Board –
+Mwingi Depot",Ncpb – Mwingi Depot,300metres,-0.9351708,38.0610356
+Murang'a,110,Gatanga,Kirwara,Police Station,"Murata Sacco Building 50m Opposite
+Police Station",-0.9290642,36.9425894
+Kisii,263,Bomachoge Borabu,Opposite Do's Compound,Magena Town,40 M,-0.9129531,34.7937871
+Migori,254,Awendo,Cereal's Board Compound,Awendo Town,Same Copound,-0.9057633,34.5299063
+Murang'a,108,Maragua,Makuyu,World Vision Block,World Vision Block Next To Do's Office,-0.8984176,37.1860323
+Murang'a,109,Kandara,Kandara,Hurukai House Above Murata Sacco,"Hurukai House Above Murata Sacco
+Located Opposite Burugu Modern
+Butchery",-0.8964086,37.0009446
+Kisii,266,Nyaribari Masaba,Dc's Compound,Masimba Town,Same Copound,-0.8613609,34.9393921
+Bomet,195,Chepalungu,Kyogong Shopping Centre- Bomet Narok Highway,"Kyogong Shopping Centre- Bomet Narok
+Highway",100 Metres From Highway,-0.8199655,35.3337173
+Kisii,265,Bomachoge Chache,Dc's Compound,Ogembo Town,Same Copound,-0.7982659,34.724631
+Murang'a,107,Kigumo,Kangari,Wanyaithaje Building Kangari,Wanyaithaje Building Kangari,-0.7840393,36.8724177
+Kisii,264,Bobasi,Dc's Compound,Sameta Market,Same Copound,-0.779314,34.7477914
+Nyamira,273,Elijah Ngunjiri,Dc's Compound,Nyansiongo Town,Same Copound,-0.7607808,35.013838
+Migori,253,Rongo,Dc's Compound,Rongo Town,Same Copound,-0.7568464,34.5986591
+Kisii,267,Nyaribari Chache,Dc's Compound,Keumbu Town,Same Copound,-0.7350285,34.8469377
+Homabay,250,Ndhiwa,D/County Commisioner’s  Compound Ndhiwa,Deputy County Commisioner’s  Office,50m,-0.7305812,34.3662354
+Nyandarua,89,Kinangop,Njabini,Total Petrol Station,200m Towards Dc’s Office,-0.726265,36.6537985
+Nakuru,168,Naivasha,Opposite Dc’s Road Naivasha,Ack Church - Naivasha,150m,-0.7219453,36.436406
+Bomet,194,Sotik,Postal Corporation Of Kenya- Office- Sotik Next To Kcb Bank Sotik,Kenya Commercial Bank Sotik,50 Metres,-0.6907844,35.1106749
+Homabay,252,Suba,Magunga,Within Magunga Shopping Centre,0,-0.6891909,34.1503141
+Embu,65,Mbeere South,Kavondori Area Along Embu – Kiritiri Road,Kiritiri District Hospital,300 Meters,-0.6857895,37.646124
+Murang'a,104,Kangema,Kangema Town,Police Station,50m Opposite Police Station,-0.6849767,36.9639815
+Kirinyaga,100,Mwea,Wang’uru County Council Hall,Near Wang’uru Police Station,150  Metres,-0.683917,37.3548909
+Kisii,269,Kitutu Chache South,Dc's Compound,Kisii Town,Same Copound,-0.6781004,34.7722761
+Kisii,261,Bonchari,Ministry Of Public Works,Suneka Town,Same Copound,-0.6778387,34.7046946
+Bomet,198,Konoin,Mogogosiek   Township   (Near Dc’s Office),Dc's Office,150 Metres,-0.6179743,35.2714777
+Nyamira,270,Fredrick Odenge,Dc's Compound,Manga Town,Same Copound,-0.614963,34.8345618
+Murang'a,105,Mathioya,Kiria-Ini,Equity Bank Kiriaini,"Murata Sacco Building 3rd Floor Room
+204 ,Opposite Equity Kiriaini",-0.6022745,36.9533294
+Homabay,248,Rangwe,Rangwe,Rangwe Dispensary,100m,-0.6009028,34.5821681
+Kericho,191,Bureti,Bureti Growers Sacco Ltd Building -2nd Floor -Litein Town,Bureti Growers Sacco Ltd Building,Same Building,-0.5844463,35.1910582
+Kisii,268,Kitutu Chache North,Dc's Compound,Marani Town,Same Copound,-0.5807317,34.7987401
+Embu,66,Mbeere North,Siakago Dc’s Compound,Dc’s Office,10 Meters,-0.5773051,37.6389604
+Nyeri,98,Mukurwe-Ini,"Gathuki-Mundu,  Along The Mukurwe-Ini Nyeri Road",Gathuki-Mundu  Primary School,100 Metres,-0.5617141,37.0432522
+Nyamira,271,Benson Ambuko,Dc's Compound,Nyamira Town,Same Copound,-0.5592712,34.9306388
+Kitui,67,Mwingi North,Kyuso Market Next To Mwingi North Cdf Office,Mwingi North Cdf Office,50metres,-0.557154,38.2111765
+Kirinyaga,102,Ndia,Baricho Town,Safaricom Booster,20 Metres,-0.5539962,37.2403302
+Nyeri,97,Othaya,Kcb Building 3rd Floor Room 17,Kcb Building,Withing The Landmark,-0.550116,36.9444162
+Embu,63,Manyatta,Embu Town – Along Embu – Meru Highway,Ack Cathedral Church,25 Meters,-0.5380926,37.451237
+Homabay,249,Homa Bay Town,Homa Bay,"County Commissioners  Office,County  Assemby
+Hall.Homa Bay Law Courts,All Other Govt
+Offices.",Within The Same Compound.,-0.528508,34.4557444
+Kirinyaga,101,Gichugu,Kianyaga Town In Wiseman Building 1st Floor.,"Along General Kassim Road Next To General
+Kassim Stadium-Kianyaga",20 Metres,-0.4951006,37.3506538
+Nakuru,169,Gilgil,Hennsolex Building- Ground Floor- Gilgil Town,Kplc - Gilgil,50m,-0.4937019,36.317246
+Nyeri,96,Mathira,"Karatina Town, Linda Plaza 2nd Floor",Post Bank,Same Building,-0.4823932,37.1254902
+Homabay,246,Kabondo Kasipul,Ramula,"Kadongo Market Centre Within Renish Obunge
+Building On Your Way To Got Rateng Mixed
+Secondary Sch.",500m,-0.4467483,34.8874989
+Nyeri,94,Tetu,"Tetu Sub-County Offices, Compound","Deputy County Commissioners  Office, Tetu Sub- County",200 Meters,-0.4393915,36.9101292
+Homabay,251,Mbita,Mbita,Dc’s Compound,60m,-0.433975,34.2079932
+Homabay,245,Kasipul,Kosele,D.C’s Compound,100metres,-0.4291376,34.6897529
+Nakuru,170,Kuresoi South,Keringet Centre- Rest House,"Keringet  Centre, On The Junction To Dcs Office",200m,-0.4269373,35.6904811
+Embu,64,Runyenjes,Runyenjes Along Embu – Meru Highway,Deputy County Commissioner’s  Office,200 Meters,-0.4216125,37.568841
+Nyeri,99,Nyeri Town,Nyeri Central  Sub-County Offices Compound,"Nyeri Central Deputy County Commissioners
+(Dcc) Office",30 Meters,-0.4215927,36.9505887
+Nyandarua,90,Kipipiri,Miharati Town,Dc’s Office,30 Meters,-0.3991578,36.4921833
+Homabay,247,Karachuonyo,Sub County  Hqs Kendu Bay,Rachuonyo North District Hqs,Same Block Room 16,-0.3691413,34.6471827
+Kericho,190,Ainamoi,Dc’s Office- Next To Kericho High Court - Kericho Town,Kericho High Court,50 Metres,-0.36895,35.2825154
+Kericho,192,Belgut,Sosiot Town Centre- Opposite Dc's Office,Dc's Office,100 Metres,-0.3631505,35.1701906
+"Tharaka
+Nithi",61,Chuka / Igambang’ombe,Chuka – Tharaka Nithi County Government Compound,Tharaka Nithi Teachers Sacco,200 Meters,-0.3322314,37.6476501
+Nakuru,167,Njoro,Aic Church – Compound -Njoro,Aic Church - Njoro,100 M,-0.3308718,35.9404526
+Kisumu,244,Nyakach,Pap Onditi,Next To Dc`S Office,200 Metres,-0.3112591,34.9351048
+Nakuru,175,Nakuru Town West,District Public Works Opposite Kfa Round About.,Kfa Roundabout – Nakuru Town,200m,-0.2861059,36.0615897
+Nakuru,176,Nakuru Town East,Catholic Diocese Nakuru (Cdn) Compound – Nakuru,St Xaviers Primary School.,100m,-0.2850728,36.0688095
+Nyandarua,91,Ol Kalou,Within The County Commissioner’s  Offices,County Commissioner’s  Office,N/A,-0.2729644,36.3744654
+Nakuru,173,Rongai,Farming System Building In Kiamunyi.,Ollive Inn (Kiamunyi).,100m,-0.2663784,36.0302056
+Nakuru,171,Kuresoi North,"Sachora, Sirikwa Police Post Building- Kuresoi","Sachora , Sirikwa Police Post.",200m,-0.2603169,35.6676825
+Nakuru,166,Molo,Dc’s Compound - Molo,Dc’s Office – Molo Town,200m From Matatu Terminus,-0.2488117,35.7280111
+"Tharaka
+Nithi",60,Maara,Maara Dc’s Compound,Dc’s Office,300 Meters,-0.2373382,37.6408686
+Kericho,188,Kipkelion East,Postal Corporation Of Kenya - Kipkelion Town,Postal Corporation Of Kenya - Kipkelion Town,Same Building,-0.1995043,35.4658557
+Siaya,237,Rarieda,Kalandini,Ministry Of Roads Offices,0,-0.173918,34.3666319
+Kisumu,242,Nyando,Awasi/Ahero,"Between Ahero Police Station & Multipurpose
+Training Institute",50m,-0.1733352,34.9193917
+Kericho,189,Kipkelion West,Postal Corporation Of Kenya -Londiani Town,Postal Corporation Of Kenya -Londiani Town,Same Building,-0.1633678,35.5885362
+"Tharaka
+Nithi",62,Tharaka,Marimanti Dc’s Compound,Dc’s Office,100 Meters,-0.1570138,37.974424
+Nakuru,174,Bahati,Do’s Compound – Kiamaina / Maili Sita - Bahati,Do’s Office Kiamaina / Maili Sita - Bahati,100 M,-0.1525533,36.143995
+Kisumu,241,Seme,Kombewa,"Kombewa Sub-County Hospital, Sub-County
+Commissioner’s  Office, Walter Wreed/Kemri
+Offices",100 Metres,-0.1058637,34.5178538
+Siaya,236,Bondo,Bondo Town,County Council,70 Metres,-0.1018432,34.2744528
+Kisumu,240,Kisumu Central,Former Pc's Hqs (Governor's Building) Right Wing Ground Floor - Kisumu City,Inside Pc's Hqs/ Opposite Cbk Kisumu,O Kms,-0.0910069,34.7668952
+Kisumu,243,Muhoroni,Chemelil,Sugar Belt Union Offices,0,-0.0830174,35.1312896
+Nyandarua,92,Ol Jorok,"Oj Gardens, Ol Jorok","Oljororok Shopping Centre, Olkalou –
+Nyahururu Road",500 Metres,-0.0748954,36.3648594
+Meru,59,South Imenti,Nkubu Market – Majani Plaza,Majani Plaza,Within Majani Plaza,-0.0655087,37.6635406
+Baringo,161,Mogotio,Behind Boresha Sacco,Boresha Sacco- Mogotio Township,70m From The Tarmack,-0.0230019,35.9615823
+Meru,58,Central Imenti,Gatimbi Market,Gatimbi Dc’s Compound,200 Meters,-0.010004,37.6603388
+Kisumu,239,Kisumu West,Maseno,Behind Maseno Law Courts.,20m,-0.0076497,34.5972937
+Nakuru,172,Subukia,Mwanainchi Sacco Building – Subukia Town Centre,Mwanainchi Sacco Building- Subukia,100m,-0.0008838,36.226472
+Laikipia,164,Laikipia East,Dc’s  Compound – Nanyuki Town,Dc’s Office – Nanyuki Town,100m,0.0122004,37.0737297
+Nyandarua,93,Ndaragwa,Nyandarua D.C Compound Nyahururu,Nyandarua D.C Compound Information  Block,3 Meters,0.0152254,36.3662689
+Laikipia,163,Laikipia West,Telkom Building- Nyahuru Town,Nyahururu Law Court.,100 M,0.0345963,36.3637227
+Kakamega,215,Emuhaya,"Nxt Esibuye Mrkt, Along Main Road Kima Musutswi",Emuhaya Market,400m,0.036589,34.6255785
+Baringo,162,Eldama Ravine,Sub County Commissioner’s   Compound – Eldamaravine,Law Courts – Eldama Ravine,-,0.0488846,35.7249046
+Siaya,235,Gem,Wagai,Opposite  Do's Office Wagai,10m,0.0521797,34.4369318
+Nandi,152,Aldai,"St Paul’s Catholic Church, Within Kobujoi Town.  P.O Box 44 Kobujoi",St Paul’s Catholic Church,Inside The Church Compound,0.0592856,34.9748783
+Siaya,234,Alego Usonga,Siaya Town,Siaya County Commissioner's  Premises,50m,0.0600559,34.283007
+Meru,57,Buuri,Timau Market,"Siraji Savings And Credit Co-Operative Society
+Ltd",Next To Siraji Savings And Credit Co- Operative Society Ltd,0.0847289,37.239089
+Nandi,153,Nandi Hills,"Nandi Hills Town, Ministry Of Public Works P.O Box 41 Nandihills
+30301",Nandills Police Station,1 Km,0.1058285,35.1833838
+Meru,54,Tigania West,Kianjai Market,National Bank,30 Meters,0.161694,37.7464825
+Siaya,233,Ugunja,Ugunja,Ambira District Hospital,100 Metres,0.1819085,34.2959393
+Kakamega,210,Ikolomani,,Sec School,50m,0.1927441,34.7611948
+Siaya,232,Ugenya,Ukwala,Opposite Ukwalla Town Hall,100m,0.1937182,34.1886642
+Nandi,155,Emgwen,"Ministry Of Co-Operative Building –Opposite Kapsabet Boys
+Secondary  School P.O Box 1121 -30300 Kapsabet",Kapsabet Boys Secondary  School,Opposite The School,0.2016954,35.0986363
+Meru,55,Tigania East,Muriri Market- Cm Plaza,Dc’s Compound,200 Meters,0.2146487,37.7906121
+Kakamega,207,Butere,"Butere Town Centre,Tsalwa  Building",Opposite Police Station,50m,0.2176559,34.4988402
+Kakamega,209,Shinyalu,Opposite Makhoko Sec Sch,Shinyalu Market,1 Km,0.2281451,34.8156552
+Nandi,154,Chesumei,"Chesumei Constituency,  P.O Box 1121 – 30300 Kapsabet. Cheptarit
+Catholic Church  Mosoriot Centre",Cheptarit Catholic Church,Same Location,0.2285767,35.1432204
+Meru,51,Igembe South,Maua Dc’s Compound,Maua Police Station,300 Meters,0.2328022,37.9400324
+Meru,52,Igembe Central,Kangeta Do’s Compound,Kangeta Multi-Purpose  Hall,5 Meters,0.2745338,37.8839063
+Busia,230,Funyula,Funyula Mkt,Post Office,50m,0.2806647,34.1172399
+Kakamega,202,Lurambi,Post Office Kakamega,Opposite Police Station,20 M,0.2835037,34.7503264
+Kakamega,205,Mumias  East,"Rd,Shianda",Shianda Market,100m,0.3192939,34.5700693
+Meru,53,Igembe North,Laare Market,Laare Equity Bank,75 Meters,0.3369903,37.936293
+Busia,229,Butula,Butula Mkt,Butula Mkt,0m,0.3415453,34.3350578
+Isiolo,49,Isiolo North,"Isiolo Town, Opposite Isiolo County Government Offices",Isiolo County Government Offices,5 Metres,0.3541527,37.5846584
+Busia,228,Matayos,Dc’s Cpd,New High Court,50m,0.3635061,34.1670756
+"Elgeyo
+Marakwet",150,Keiyo South,"Keiyo Teacher’s Sacco Building Along Kipkwen Road Chepkorio P.O
+Box 822 Eldoret -30100",Keiyo Teacher’s Sacco Building,Inside The Building,0.3756913,35.54126
+Kakamega,206,Matungu,Matungu Mrkt Saka Building,Opposite Dc’s  Office Kholera Rd,100m,0.394073,34.4709172
+Laikipia,165,Laikipia North,County Council Building,Dol Dol- Laikipia North,-,0.3954047,37.1626691
+Nandi,156,Mosop,"Kabiyet –Nandi North District Head Quarters P.O Box 1121 -30300
+Kapsabet",Kabiyet –Nandi North District Headquarters,Same Compound,0.3993212,35.0848466
+Kakamega,203,Navakholo,"Mocco Building, Navakholo Centre.",Cdf Office,Across The Road,0.4146504,34.681141
+Busia,227,Nambale,Dc’s Cpd,New High Court,50m,0.448678,34.2510581
+Baringo,160,Baringo South,Deputy County Commissioner’s   Compound,District Hq Marigat - Kabarnet,"200m From Telcom Kenya Satellite
+Booster",0.4701457,35.9810323
+Baringo,159,Baringo Central,"County Commissioners  Premises, Opposite Posta Building _ Kabarnet",County Commissioners  Premises- Kabarnet,100m,0.4923845,35.7425675
+Uasin Gishu,145,Kapseret,"Inside R.C.E.A Ushirika Church  Compound, Opposite Hills School- On
+Eldoret Kisimu Road,P.O Box 822 Eldoret-30100","R.C.E.A Ushirika Church, Opposite Hills School",Inside The Church Compound,0.4956365,35.2704692
+Uasin Gishu,144,Ainabkoi,"Adjacent To Eldoret East District Hqs, Off Kapsoya Road , Kapsoya
+Estate ,  P.O Box 822-30100",Eldoret East District Hqs,Across The Road (0),0.5190953,35.2992075
+Uasin Gishu,141,Soy,"West Indies, Ndalat Estate, Behind Santrum Hardware, Uganda
+Road, P.O Box 822-30100 Eldoret","Ndalat Estate, Behind Santrum Hardware",Btn 50 - 100 Metres,0.5198801,35.2567255
+Isiolo,50,Isiolo South,"Garbatulla Town, Next To Kenya Red Cross Office And Police Station",Kenya Red Cross Office And Police Station,10 Metres & 1km Respectively,0.5321798,38.5163023
+Bungoma,219,Bumula,Dc’s Cpd,Dc’s Cpd,100m,0.5491553,34.4590995
+Bungoma,220,Kanduyi,Bungoma Cereals Board Cpd,Cereals Board Cpd,0m,0.5680515,34.557186
+Bungoma,221,Webuye East,Webuye-Kitale  Road,Dc’s Offce,0.5km,0.6048057,34.7644316
+Busia,225,Teso North,Amagoro Market,Levantes Hotel,200m,0.6286368,34.330566
+Kakamega,199,Lugari,"Lumakada Mrkt,Along Bish Sulmeti G.Sec School",Opposite Dc’soffices,150m,0.6514933,34.8748528
+"Elgeyo
+Marakwet",149,Keiyo North,"Iebc Building Block Iten Town Opposite Elgeyo Marakwet County
+Hall P.O Box 822 Eldoret-30100",County Commissioners  Building,50 Metres,0.6720924,35.501418
+Bungoma,222,Webuye West,Bokoli,Bokoli Market,,0.7118027,34.6596757
+Bungoma,218,Kabuchai,Chwele Mkt,Dc’s Office,0.5km,0.7354684,34.5780946
+Bungoma,217,Sirisia,Dc’s Cpd,Dc’s Office,50m,0.7549976,34.5028499
+Bungoma,224,Tongaren,Do’s Cpd,Dos Office,30m,0.7824019,34.9610691
+Bungoma,223,Kimilili,Kimilili Town,Kimilili Town,0m,0.7837056,34.7183759
+Bungoma,216,Mt. Elgon,Kapsokwony Market,Kapsokwiny Town,0m,0.8428664,34.713535
+Trans Nzioa,139,Kiminini,"Within Catholic Parish Kiminini Market P.O Box 11 Kitale-
+30200.Deputy  County Commissioner  Office, Tranzoia West",Catholic Parish Kiminini Market,50 Metres,0.8932787,34.9235007
+Trans Nzioa,138,Saboti,"Maendeleo Ya Wanawake House Next /Adjacent To Trans Nzoia
+County Assembly Kitale Town .P.O Box 11 Kitale-30200.",Trans Nzoia County Assembly,Just Opposite Trans Nzoia C. Assembly,0.9400099,34.8416602
+"Elgeyo
+Marakwet",148,Marakwet West,Iebc  Building Block Kapsowar Town Centre,Kapsowar Dc Headquarters,200 Metres,0.9796129,35.5615526
+Samburu,135,Samburu East,Wamba Catholic Mission,Wamba Catholic  Mission -Samburu,100m From Wamba Catholic,0.9806601,37.321121
+Trans Nzioa,140,Cherangany,"Cherangany Constituency  Office Located At Kachibora Centre, Suguta Plaza, P.O Box 11 Kitale 30200",Kachibora Centre,300 Metres,0.9828676,35.2195289
+Baringo,157,Tiaty,Next To Ministry Of Education Offices- Chemolingot,Chemolingot,,0.9856111,35.9724118
+Wajir,38,Wajir South,Habaswein,Police Station,5km,1.0151738,39.4963784
+Trans Nzioa,136,Kwanza,"Kfa (Kenya Farmers Association) Building 2nd Floor, Kitale Town
+Railway Road.  P.O Box 11 Kitale -30200",National Cereals & Produce Board,Opposite Ncpd,1.0192225,34.9986322
+"Elgeyo
+Marakwet",147,Marakwet East,Chesoi Town Centre,Dc Administration  Offices,Same Location,1.0705318,35.5910767
+Trans Nzioa,137,Endebess,"Endebess District Head Quarters (D.D.O Office) Kitale Molim Road
+Endebess Town, P.O Box 4 Endebess-30201.",District Head Quarters (D.D.O Office),Same Location,1.073708,34.8556717
+West Pokot,129,Kapenguria,Kapenguria Bible College P.O Box 450 Kapenguria-30600,Kapenguria Bible College,Same Location,1.2442374,35.1152492
+Machakos,82,Mwala,"Makutano Ya Mwala Shopping Centre Adjacent To Makutano Police
+Patrol Base",Makutano Police Patrol Base,5metres,1.2565795,35.0937843
+West Pokot,131,Kacheliba,"Evangelical Lutheran Church Of Kenya Building, Kenya Bible Centre
+Of Makutano – Kapenguria Road P.O Box 450 Kapenguria-30600","Evangelical Lutheran Church Of Kenya Building, Kenya Bible Centre Of Makutano",Same Location,1.2587248,35.0930495
+West Pokot,132,Pokot South,"Chebareria Town Within Subcounty Offices Behind World Vision- Along Kapenguria- Lodwar Road, P.O Box 450 Kapenguria-30600",Subcounty Offices Behind World Vision,Same Location,1.3067028,35.2035472
+West Pokot,130,Sigor,"Kapenguria Bible College, P.O Box 450 Kapenguria-30600",Kapenguria Bible College,Same Location,1.4865988,35.4715717
+Marsabit,48,Laisamis,"Laisamis Town, Opposite Laisamis Primary School",Opposite Laisamis Primary School,50 Metres,1.5875709,37.7998796
+Wajir,34,Wajir East,Wajir,Alfurqan Integrated,200m,1.7496359,40.0573429
+Samburu,134,Samburu North,Near The Dcs Office - Baragoi,Dcs Office Baragoi,200m From The Dcs Office,1.7835873,36.786087
+Wajir,36,Wajir West,Giriftu,Griftu District Hospital,50m,1.9963081,39.7527195
+Wajir,33,Wajir North,Bute,Police Station,100m,1.9987509,39.7528843
+Wajir,35,Tarbaj,Tarbaj,Tarbaj District Hospital,50m,2.2084204,40.1175966
+Marsabit,47,Saku,"Saku Town, On 1st Floor Caltex Petrol Station Building, Opposite
+Marsabit Stadium","Caltex Petrol Station Building, Opposite
+Marsabit Stadium",100 Metres,2.3307755,37.9868576
+Mandera,42,Mandera South,El-Wak,El-Wak Service Station,30m,2.8070316,40.9293894
+Mandera,44,Lafey,Lafey,Dc’s Office,20m,3.1503793,41.1845991
+Marsabit,46,North Horr,Behind Administrative  Police Station,Behind Administrative  Police Station,500 Metres,3.3213566,37.0701455
+Mandera,39,Mandera West,Takaba,Ap Line,50m,3.3969763,40.2240547
+Marsabit,45,Moyale,"Moyale Town Centre, Along Thika Road, Opposite Equity Bank","Along Thika Road, Opposite Equity Bank",150 Metres,3.5212282,39.0553338
+Turkana,124,Turkana West,"Inside Sub-County Commissioner’s  Offices, Kakuma Town P.O Box I
+Kakuma -30501.",Sub County Commissioner's  Office,Same Location,3.7093262,34.8621783
+Mandera,41,Mandera North,Rhamu,Post Office,30m,3.9309888,41.2227622
+Mandera,43,Mandera East,Mandera,Nhif Office,20m,3.9385997,41.8599819
+Mandera,40,Banisa,Banisa,Dc’s Office,100m,3.9416173,40.3423745
+Garissa,27,Garissa Township,"Off Lamu Road, Behind Ministry Of Water Garage",,,,
+Garissa,28,Balambala,Balambala Town Next To Dc’s Office.,,,,
+Garissa,29,Lagdera,"Modogashe Town, Opposite Police Station.",,,,
+Garissa,30,Dadaab,"Dadaab Town, Opposite Un Compound.",,,,
+Garissa,31,Fafi,Next To Dc’s Office.,,,,
+Garissa,32,Ijara,"Masalani Town, Next To Dc’s Office.",,,,
+Wajir,37,Eldas,Eldas,Dc ‘S Residence,50m,,
+Meru,56,North Imenti,"Milimani – County Commissioner  Residence Road Off Farm Concern
+Junction To Mesburn Institute",Mesburn Institute,250 Meters,,
+Kitui,71,Kitui Rural,Esther House – Kwa Vonza Market Along Kitui – Machakos Road,Kwa Vonza Market Bus Stop,50metres,,
+Nyeri,95,Kieni,"Kieni East Sub County Offices, Chaka.","Deputy County Commissioners  Office, Kieni
+East",30 Metres,,
+Kirinyaga,103,Kirinyaga Central,Former Municipal Council Grounds,"Deputy County Commissioners  Office, Kirinyaga
+Central",50 Meters,,
+Murang'a,106,Kiharu,Murang'a Town,County Commissioners  Offeces,"Ground Floor Room 15 County
+Commissioners  Officec",,
+Turkana,123,Turkana North,"Dc’s Office Block, Lokitaung. P.O Box 223 Lodwar 30500",Dc's Office Block,500 Metres,,
+Turkana,125,Turkana Central,"District Development  Offices, P.O Box 223 –Lodwar Town 30500",District Development  Offices,Same Building,,
+Turkana,126,Loima,"Logurum At Dc Adminitration  Building (Offices ) P.O Box 223
+–Lodwar 30500",Dc Administration  Offices,Same Building,,
+Turkana,127,Turkana South,"D.D.O’s Offices, Lodwar P.O Box 223 Lodwar-30500",D.D.O's Offices,Same Building,,
+Turkana,128,Turkana East,"Lokori At Dc’s Offices, P.O Box 223 –Lodwar 30500",Dc's Office Block,Same Location,,
+Samburu,133,Samburu West,Next To Cdf Office- Samburu West,Opposite Dcs Office - Samburu,150 M,,
+Uasin Gishu,142,Turbo,"West Indies Behind I.V.C  Church,P.O Box 822 Eldoret-30100",Ivc Church,100 Metres,,
+Uasin Gishu,143,Moiben,Operating In Turbo Constituency  Office Currently,Ivc Church,100 Metres,,
+Uasin Gishu,146,Kesses,Jamboni Complex Near Ddc’s Office P.O Box 822 Eldoret-30100,Moi Unversity Law School,1 Km,,
+Nandi,151,Tinderet,"St Mary’s Tachasis Girl’s, Within Maraba In Tinderet.P.O Box 41
+Nandihills 30301","St Mary’s Tachasis Girl’s, Within Maraba",Within The School Compound,,
+Baringo,158,Baringo North,Behind Posta Building,Posta Building –Baringo North,19 Km From Kabarnet Town,,
+Narok,182,Narok West,Nkorkorri Boys Sec. School,Nkorkorri Boys Sec. School,Same Location,,
+Kericho,193,Sigowet/Soin,Soko Huru Shopping Centre- Along Kericho Kisumu Highway,"Soko Huru Shopping Centre- Along Kericho
+Kisumu Highway",100 Metres From Highway,,
+Bomet,196,Bomet East,Above Kipsigis Eddis Sacco(Opposite  National Cereals Board)- Bomet,Ncpb Bomet,20 Metres,,
+Bomet,197,Bomet Central,National Cereals And Produce  Board – Bomet Offices,Ncpb Bomet,Same Building,,
+Kakamega,200,Likuyani,Kongoni Pag Church Compound,Friends Church,50m,,
+Kakamega,201,Malava,Within Compound Of Malava Yearly Meeting Of  Friends Church,(Quakers),100m,,
+Kakamega,204,Mumias West,Along Mumias /Musanda Rd,"Bomani Playground, Ack Diocese Office Diocese
+Office",100m,,
+Kakamega,208,Khwisero,Vision Plaza Central Yearly Meeting Of Friends Church Lirhanda,Directly Opposite Safari Com Booster,20m,,
+Kakamega,211,,Mbale Municipal Council,Barclays Bank,200,,
+Kakamega,212,Sabatia,"National Cereals&Produce Board Chavakali Along Kak Mumias Rd
+Shianda",Chavakali,100m,,
+Kakamega,213,Hamisi,Youth Empowerment  Cnter,Sub Countycommissioner’s,Btw 50m-100m,,
+Kakamega,214,Luanda,"Market,Mocco  Offices Ebusiralo Along  Ebusakami/Kima  Rd",Bunyore Girls H School,1km,,
+Busia,226,Teso South,Dc’s Cpd,Dc’s Office,0m,,
+Busia,231,Budalangi,Ap Line,Ap Line,0m,,
+Kisumu,238,Kisumu East,"Within The Ministry Of Lands Premises; Next To Kisumu East Dc’s
+Offices; Kisumu City",Imperial Hotel,400m,,
+Migori,255,Suna East,Dc's Compound,Migori Town,Same Copound,,
+Kisii,262,South Mugirango,Next To Dc's Compound,Nyamarambe  Town,100 M,,
+Nyamira,272,Justus Naliakho,Dc's Compound,Nyamira Town,Same Copound,,
+Nairobi City,274,Westlands,Ministry Of Social Services -Westlands,Ministry Of Social Services -Westlands,0 Km,,
+Nairobi City,275,Dagoreti North,Maliposa Apartment -Ngong Road,Nakumart -Junction,4 Km,,
+Nairobi City,276,Dagoretti South,Maisha Poa Centre -Kawangware,Do's Office -Kawangware.,1km,,
+Nairobi City,277,Langata,Cdf Offices -Langata,Cdf Offices -Langata,0km,,
+Nairobi City,278,Kibra,D.C's Office Kibera,D.C's Office Kibera,0km,,
+Nairobi City,279,Roysambu,D.O's Office-Kahawa  West,D.O's Office-Kahawa  West,0km,,
+Nairobi City,280,Kasarani,D.C's Office Kasarani,D.C's Office Kasarani,0km,,
+Nairobi City,281,Ruaraka,Sacred Heart Catholic Church - Baba Dogo,Sacred Heart Catholic Church - Baba Dogo,0km,,
+Nairobi City,282,Embakasi South,Joy Villa-Imara Daima,Nakumart Embakasi.,3km,,
+Nairobi City,283,Embakasi North,D.C's Office -Dandora,D.O's Office -Dandora,0 Km,,
+Nairobi City,284,Embakasi Central,D.C's Office-Kayole,D.C's Office-Kayole,0 Km,,
+Nairobi City,285,Embakasi East,Ea School Of Aviation-Embakasi,Ea School Of Aviation-Embakasi,0 Km,,
+Nairobi City,286,Embakasi West,Tena -Dolhnolm,Naivas Supermarket - Dolholm,3 Km,,
+Nairobi City,287,Makadara,Ministry Of Public Works-Industral  Area,Ministry Of Public Works-Industral  Area,0 Km,,
+Nairobi City,288,Kamukunji,D.C's Office-Kamukunji,D.C's Office-Kamukunji,0 Km,,
+Nairobi City,289,Starehe,Kie-Ngara,Kie-Ngara,0 Km,,
+Nairobi City,290,Mathare,Chief's Camp-Mathare,Chief's Camp-Mathare,0 Km,,
