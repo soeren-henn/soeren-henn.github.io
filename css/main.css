@@ -128,6 +128,17 @@ footer ul li {
   min-height: 200px;   
 }
 
+.data-header {
+  background: url(images/pump.JPG) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0px 0 20px;
+  position: relative;
+  min-height: 200px;   
+}
+
 .research-title{
     text-align: center;
     padding: 150px 0;
