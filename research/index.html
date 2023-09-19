@@ -125,23 +125,26 @@ title: Research
 	</div>
 	
 	<script>
-        // Get references to all elements with the class "show-abstract"
-        var showAbstractLinks = document.querySelectorAll('.show-abstract');
+    // Get references to all elements with the class "show-abstract"
+    var showAbstractLinks = document.querySelectorAll('.show-abstract');
 
-        // Add a click event listener to each "Abstract" link
-        showAbstractLinks.forEach(function(link) {
-            link.addEventListener('click', function (event) {
-                event.preventDefault(); // Prevent the default link behavior
-                
-                // Toggle the display property of the next sibling element (the hidden paragraph)
-                var hiddenParagraph = link.nextElementSibling;
-                if (hiddenParagraph.style.display === 'block') {
-                    hiddenParagraph.style.display = 'none'; // Hide the paragraph
-                } else {
-                    hiddenParagraph.style.display = 'block'; // Show the paragraph
-                }
-            });
+    // Add a click event listener to each "Abstract" link
+    showAbstractLinks.forEach(function(link) {
+        link.addEventListener('click', function(event) {
+            event.preventDefault(); // Prevent the default link behavior
+
+            // Toggle the display property of the next sibling element (the hidden paragraph)
+            var hiddenParagraph = link.parentElement.nextElementSibling;
+            
+            // Toggle the CSS class to hide/show the paragraph
+            if (hiddenParagraph.classList.contains('hidden-paragraph')) {
+                hiddenParagraph.classList.remove('hidden-paragraph'); // Show the paragraph
+            } else {
+                hiddenParagraph.classList.add('hidden-paragraph'); // Hide the paragraph
+            }
         });
-    </script>
+    });
+</script>
+
 		
 </div>
