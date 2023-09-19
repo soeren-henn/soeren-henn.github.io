@@ -34,7 +34,13 @@ title: Research
         // Add a click event listener to the "Abstract" link
         showAbstractLink.addEventListener('click', function (event) {
             event.preventDefault(); // Prevent the default link behavior
-            hiddenParagraph.style.display = 'block'; // Display the hidden paragraph
+            
+            // Toggle the display property of the hidden paragraph
+            if (hiddenParagraph.style.display === 'block') {
+                hiddenParagraph.style.display = 'none'; // Hide the paragraph
+            } else {
+                hiddenParagraph.style.display = 'block'; // Show the paragraph
+            }
         });
     </script>
 		<a href="https://www.cambridge.org/core/journals/american-political-science-review/article/complements-or-substitutes-how-institutional-arrangements-bind-traditional-authorities-and-the-state-in-africa/01216C0A1B14465B11122451B558DE3A?utm_source=hootsuite&utm_medium=twitter&utm_campaign=PSR_Nov22" class="btn btn-default pull-right" title="PDF">Open Access PDF</a>
