@@ -1,38 +1,59 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			{% include analytics.html %}
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-	        		<li><a href="/files/CV_website.pdf" target="_blank">CV</a></li>
-	        		<li><a href="/research">Research</a></li>
-				<li><a href="/data">Data</a></li>
-				<li><a href="/teaching">Teaching</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-			<div class="bottom">
-	    			<ul>
-	        			<li><a href="mailto:soeren.henn@gmail.com"><img src="\images\email.png" style="width:45px; height:45px;"></a></li>
-					<li><a href="https://scholar.google.com/citations?user=Ag37C64AAAAJ&hl=en"><img src="\images\gscholar.png" style="width:45px; height:45px;"></a></li>
-					<li><a href="https://twitter.com/SoerenHenn" target="_blank"><img src="\images\twitter.png" style="width:45px; height:45px;"></a></li>
-	        			<li><a href="https://github.com/soeren-henn"><img src="\images\githublogo.png" style="width:45px; height:45px;"></a></li>
-					<li><a href="https://www.linkedin.com/in/soeren-henn-a059a154/"><img src="\images\linkedin.png" style="width:45px; height:45px;"></a></li>
-				</ul>
-			</div>
-			</footer>
-			
-						
-		</body>
-	</html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.url == "/" %}{{ site.name }}{% else %}{{ page.title }} | {{ site.name }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Spectral:ital,wght@0,300;0,400;0,500;1,400&display=swap">
+  <link rel="stylesheet" href="/css/main.css">
+  <script>document.documentElement.className += " js";</script>
+  {% include analytics.html %}
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap">
+      {% unless page.url == "/" %}<a class="wordmark" href="/">{{ site.name }}</a>{% endunless %}
+      <nav aria-label="Main">
+        <a href="/research/"{% if page.url contains "/research" %} aria-current="page"{% endif %}>Research</a>
+        <a href="/data/"{% if page.url contains "/data" %} aria-current="page"{% endif %}>Data</a>
+        <a href="/teaching/"{% if page.url contains "/teaching" %} aria-current="page"{% endif %}>Teaching</a>
+        <a href="{{ site.cv }}">CV</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="content" class="wrap">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Department of Political Science<br>University of Wisconsin–Madison</p>
+      {% unless page.url == "/" %}
+      <ul class="footer-links">
+        <li><a href="mailto:{{ site.email }}">Email</a></li>
+        {% for profile in site.profiles %}<li><a href="{{ profile.url }}">{{ profile.label }}</a></li>
+        {% endfor %}
+      </ul>
+      {% endunless %}
+    </div>
+  </footer>
+
+  <script>
+    // Show and hide paper abstracts on the research page.
+    document.querySelectorAll(".abstract-toggle").forEach(function (button) {
+      button.addEventListener("click", function () {
+        var panel = document.getElementById(button.getAttribute("aria-controls"));
+        var isOpen = button.getAttribute("aria-expanded") === "true";
+        button.setAttribute("aria-expanded", String(!isOpen));
+        panel.classList.toggle("is-open", !isOpen);
+      });
+    });
+  </script>
+</body>
+</html>

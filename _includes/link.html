@@ -1,0 +1,19 @@
+{%- comment -%}
+  Turns one spreadsheet entry written as "Label | https://..." into a link.
+  An entry with only a URL gets the label "Link"; an entry with only text is shown as plain text.
+{%- endcomment -%}
+{%- assign lk_parts = include.text | split: "|" -%}
+{%- if lk_parts.size > 1 -%}
+  {%- assign lk_label = lk_parts[0] | strip -%}
+  {%- assign lk_url = lk_parts[1] | strip -%}
+{%- else -%}
+  {%- assign lk_only = lk_parts[0] | strip -%}
+  {%- if lk_only contains "://" or lk_only contains "/files/" -%}
+    {%- assign lk_label = "Link" -%}
+    {%- assign lk_url = lk_only -%}
+  {%- else -%}
+    {%- assign lk_label = lk_only -%}
+    {%- assign lk_url = "" -%}
+  {%- endif -%}
+{%- endif -%}
+{%- if lk_url != "" -%}<a href="{{ lk_url }}">{{ lk_label }}</a>{%- else -%}{{ lk_label }}{%- endif -%}

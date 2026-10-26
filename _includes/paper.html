@@ -1,0 +1,74 @@
+{%- comment -%}
+  One entry on the research page, built from a row of _data/papers.csv.
+{%- endcomment -%}
+{%- assign p = include.paper -%}
+{%- assign p_id = "abstract-" | append: include.id -%}
+{%- assign p_title = p.title | strip | smartify -%}
+{%- assign p_pdf = p.pdf | strip -%}
+{%- assign p_year = p.year | strip -%}
+{%- assign p_status = p.status | strip -%}
+{%- assign p_journal = p.journal | strip -%}
+{%- assign p_citation = p.citation | strip -%}
+{%- assign p_abstract = p.abstract | strip -%}
+{%- assign p_award = p.award | strip -%}
+
+{%- assign p_people = "" | split: "" -%}
+{%- assign p_raw = p.coauthors | split: ";" -%}
+{%- for item in p_raw -%}{%- assign item_clean = item | strip -%}{%- if item_clean != "" -%}{%- assign p_people = p_people | push: item_clean -%}{%- endif -%}{%- endfor -%}
+
+{%- assign p_links = "" | split: "" -%}
+{%- assign p_raw = p.links | split: ";" -%}
+{%- for item in p_raw -%}{%- assign item_clean = item | strip -%}{%- if item_clean != "" -%}{%- assign p_links = p_links | push: item_clean -%}{%- endif -%}{%- endfor -%}
+
+{%- assign p_coverage = "" | split: "" -%}
+{%- assign p_raw = p.coverage | split: ";" -%}
+{%- for item in p_raw -%}{%- assign item_clean = item | strip -%}{%- if item_clean != "" -%}{%- assign p_coverage = p_coverage | push: item_clean -%}{%- endif -%}{%- endfor -%}
+
+<article class="paper">
+  <p class="paper-year">{{ p_year }}</p>
+  <div class="paper-main">
+    <h3 class="paper-title">{% if p_pdf != "" %}<a href="{{ p_pdf }}">{{ p_title }}</a>{% else %}{{ p_title }}{% endif %}</h3>
+
+    {%- if p_people.size > 0 %}
+    <p class="paper-authors">with
+      {%- for name in p_people -%}
+        {%- if forloop.first -%}{{ " " }}{%- elsif forloop.last -%}{%- if forloop.length > 2 -%},{%- endif -%}{{ " and " }}{%- else -%}{{ ", " }}{%- endif -%}
+        {%- assign person = site.data.coauthors | where: "name", name | first -%}
+        {%- assign person_url = person.url | strip -%}
+        {%- if person_url != "" -%}<a href="{{ person_url }}">{{ name }}</a>{%- else -%}{{ name }}{%- endif -%}
+      {%- endfor -%}
+    </p>
+    {%- endif %}
+
+    {%- if p_status != "" or p_journal != "" or p_citation != "" %}
+    <p class="paper-venue">
+      {%- if p_status != "" -%}{{ p_status }}{%- if p_journal != "" -%}, {% endif -%}{%- endif -%}
+      {%- if p_journal != "" -%}<cite>{{ p_journal }}</cite>{%- endif -%}
+      {%- if p_citation != "" -%}{{ " " }}{{ p_citation }}{%- endif -%}
+    </p>
+    {%- endif %}
+
+    {%- capture p_linkrow -%}
+      {%- if p_abstract != "" -%}<button type="button" class="abstract-toggle" aria-expanded="false" aria-controls="{{ p_id }}">Abstract</button>{%- endif -%}
+      {%- if p_pdf != "" -%}<a href="{{ p_pdf }}">PDF</a>{%- endif -%}
+      {%- for item in p_links -%}{%- include link.html text=item -%}{%- endfor -%}
+    {%- endcapture -%}
+    {%- if p_linkrow != "" %}
+    <div class="paper-links">{{ p_linkrow }}</div>
+    {%- endif %}
+
+    {%- if p_abstract != "" %}
+    <div class="paper-abstract" id="{{ p_id }}">{{ p_abstract | markdownify }}</div>
+    {%- endif %}
+
+    {%- if p_award != "" %}
+    <p class="paper-award">{% include link.html text=p_award %}</p>
+    {%- endif %}
+
+    {%- if p_coverage.size > 0 %}
+    <p class="paper-coverage"><span class="paper-coverage-label">Coverage</span>
+      {%- for item in p_coverage -%}{{ " " }}{%- include link.html text=item -%}{%- unless forloop.last -%},{%- endunless -%}{%- endfor -%}
+    </p>
+    {%- endif %}
+  </div>
+</article>

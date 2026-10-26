@@ -1,2 +1,27 @@
-name: Soeren J Henn
+name: Soeren J. Henn
+description: Soeren J. Henn is an Assistant Professor of Political Science at the University of Wisconsin–Madison working on economic development and political economy in sub-Saharan Africa.
 markdown: kramdown
+
+# "bom|utf-8" lets Jekyll read CSV files saved from Excel ("CSV UTF-8"),
+# which start with an invisible byte-order mark.
+encoding: "bom|utf-8"
+
+# Google Analytics measurement ID (starts with "G-"). Leave empty to turn analytics off.
+google_analytics: G-0E02YXJ8PP
+
+email: soeren.henn@gmail.com
+cv: /files/CV_website.pdf
+profiles:
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=Ag37C64AAAAJ&hl=en
+  - label: X / Twitter
+    url: https://twitter.com/SoerenHenn
+  - label: GitHub
+    url: https://github.com/soeren-henn
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/soeren-henn-a059a154/
+
+exclude:
+  - README.md
+  - HOW-TO-UPDATE.md
+  - Professional Website.Rproj
