@@ -33,11 +33,23 @@ If a build fails, the live site stays as it was. The error appears under the rep
 | `citation` | Volume, issue and pages | `76(2):219–258` |
 | `pdf` | Main link. The title and the "PDF" link point here. Use `/files/name.pdf` for a file in the `files` folder, or a full web address. | `/files/Henn_Chiefs.pdf` |
 | `links` | Other links, written `Label \| address` and separated by semicolons | `NBER working paper \| https://www.nber.org/papers/w28631; Pre-analysis plan \| /files/PAP.pdf` |
+| `replication` | Address of the replication archive (Dataverse, Zenodo, openICPSR...) | `https://doi.org/10.7910/DVN/X2JKHN` |
+| `data` | Address that opens the data files (can be a filtered view of the archive, or a separate dataset) | |
+| `code` | Address that opens the code files (or a GitHub repository) | |
+| `replication_note` | Optional sentence shown under the replication links. `[text](address)` makes a link. | `Data and code are in a single package.` |
 | `coverage` | Media coverage, in the same format as `links` | `VoxDev \| https://voxdev.org/...; Brookings \| https://...` |
 | `award` | Award text, optionally followed by `\| address` | `Honorable mention, APCG Best Article Award 2023 \| https://...` |
 | `abstract` | Plain text. Use `*asterisks*` for italics. Leave empty to hide the Abstract button. | |
 
 Any cell can be left empty; the page simply leaves that line out.
+
+## Replication materials (Data page)
+
+Every row in the `Publication` section gets an entry under "Replication materials" on the Data page, and its entry on the Research page gets a "Replication" link that jumps there. A paper in another section gets an entry too as soon as one of its `replication`, `data` or `code` cells is filled in.
+
+- Links that point to the same address are shown once, so pasting the archive address into all three cells shows a single "Replication archive" link.
+- An entry with no links and no note reads "Replication materials are not posted yet."
+- On Harvard Dataverse you can make a Data or Code link by filtering the archive's file list (for example by file type) and copying the address from the browser.
 
 ## Other changes
 

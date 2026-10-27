@@ -1,0 +1,40 @@
+{%- comment -%}
+  One entry in "Replication materials" on the Data page, built from a row of _data/papers.csv
+  (columns replication, data, code and replication_note).
+  Links that point to the same address are shown once.
+{%- endcomment -%}
+{%- assign r = include.paper -%}
+{%- assign r_slug = r.title | strip | slugify -%}
+{%- assign r_title = r.title | strip | smartify -%}
+{%- assign r_year = r.year | strip -%}
+{%- assign r_archive = r.replication | strip -%}
+{%- assign r_data = r.data | strip -%}
+{%- assign r_code = r.code | strip -%}
+{%- assign r_note = r.replication_note | strip -%}
+
+<article class="paper" id="{{ r_slug }}">
+  <p class="paper-year">{{ r_year }}</p>
+  <div class="paper-main">
+    <h3 class="paper-title"><a href="/research/#{{ r_slug }}">{{ r_title }}</a></h3>
+    {%- include venue.html paper=r %}
+
+    {%- capture r_links -%}
+      {%- if r_archive != "" -%}<a href="{{ r_archive }}">Replication archive</a>{%- endif -%}
+      {%- if r_data != "" and r_data == r_code and r_data != r_archive -%}
+        <a href="{{ r_data }}">Data and code</a>
+      {%- else -%}
+        {%- if r_data != "" and r_data != r_archive -%}<a href="{{ r_data }}">Data</a>{%- endif -%}
+        {%- if r_code != "" and r_code != r_archive -%}<a href="{{ r_code }}">Code</a>{%- endif -%}
+      {%- endif -%}
+    {%- endcapture -%}
+    {%- if r_links != "" %}
+    <div class="paper-links">{{ r_links }}</div>
+    {%- endif %}
+
+    {%- if r_note != "" %}
+    <div class="replication-note">{{ r_note | markdownify }}</div>
+    {%- elsif r_links == "" %}
+    <p class="replication-note">Replication materials are not posted yet.</p>
+    {%- endif %}
+  </div>
+</article>

@@ -1,0 +1,13 @@
+{%- comment -%}
+  The "Forthcoming, Journal 12(3):45–67" line under a paper title.
+{%- endcomment -%}
+{%- assign v_status = include.paper.status | strip -%}
+{%- assign v_journal = include.paper.journal | strip -%}
+{%- assign v_citation = include.paper.citation | strip -%}
+{%- if v_status != "" or v_journal != "" or v_citation != "" %}
+    <p class="paper-venue">
+      {%- if v_status != "" -%}{{ v_status }}{%- if v_journal != "" -%}, {% endif -%}{%- endif -%}
+      {%- if v_journal != "" -%}<cite>{{ v_journal }}</cite>{%- endif -%}
+      {%- if v_citation != "" -%}{{ " " }}{{ v_citation }}{%- endif -%}
+    </p>
+{%- endif -%}

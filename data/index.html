@@ -6,13 +6,38 @@ title: Data
 <div class="data">
   <header class="page-head">
     <h1>Data</h1>
+    <nav class="jump" aria-label="Sections on this page">
+      <a href="#replication-materials">Replication materials</a>
+      <a href="#administrative-headquarters">Administrative headquarters</a>
+    </nav>
   </header>
 
-  <section class="prose">
-    <h2>Administrative headquarters</h2>
-    <p>Below you can find the location of administrative headquarters in various African countries. I collected this data for my paper <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/complements-or-substitutes-how-institutional-arrangements-bind-traditional-authorities-and-the-state-in-africa/01216C0A1B14465B11122451B558DE3A">Complements or Substitutes? How Institutional Arrangements Bind Chiefs and the State in Africa</a> (<i>American Political Science Review</i>, 2023). Please cite this paper if you use the data.</p>
-    <p>A table summarizing the changes over time can be found <a href="/files/HQ_Changes.csv">here</a>. Lastly, <a href="/files/HQ_Sources.csv">this table</a> explains for each country what sources were used and other things to note.</p>
+  {% comment %}
+    Every published article gets an entry, plus any other paper with a replication, data or code link.
+    The links come from the replication, data, code and replication_note columns of _data/papers.csv.
+  {% endcomment %}
+  <section class="paper-list data-section" id="replication-materials">
+    <h2>Replication materials</h2>
+    <div class="section-intro">
+      <p>Data and code for each published article. The replication archive holds the full package with its README; the Data and Code links open just those files in the archive.</p>
+    </div>
+    {% for paper in site.data.papers %}
+      {% assign paper_section = paper.section | downcase | strip %}
+      {% assign paper_hidden = paper.hide | strip %}
+      {% assign paper_title = paper.title | strip %}
+      {% assign paper_repl = paper.replication | append: paper.data | append: paper.code | strip %}
+      {% if paper_hidden == "" and paper_title != "" %}{% if paper_section == "publication" or paper_repl != "" %}
+        {% include replication.html paper=paper %}
+      {% endif %}{% endif %}
+    {% endfor %}
   </section>
+
+  <section class="paper-list data-section" id="administrative-headquarters">
+    <h2>Administrative headquarters</h2>
+    <div class="section-intro">
+      <p>Below you can find the location of administrative headquarters in various African countries. I collected this data for my paper <a href="/research/#complements-or-substitutes-how-institutional-arrangements-bind-chiefs-and-the-state-in-africa">Complements or Substitutes? How Institutional Arrangements Bind Chiefs and the State in Africa</a> (<i>American Political Science Review</i>, 2023). Please cite this paper if you use the data.</p>
+      <p>A table summarizing the changes over time can be found <a href="/files/HQ_Changes.csv">here</a>. Lastly, <a href="/files/HQ_Sources.csv">this table</a> explains for each country what sources were used and other things to note.</p>
+    </div>
 
   <dl class="downloads">
     <div class="download-row">
@@ -120,4 +145,5 @@ title: Data
       <dd><a href="/files/ZWE_province_2017.csv">Province 2017</a> <a href="/files/ZWE_district_2017.csv">District 2017</a></dd>
     </div>
   </dl>
+  </section>
 </div>

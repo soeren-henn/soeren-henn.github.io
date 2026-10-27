@@ -13,6 +13,7 @@
   --leaf: #2d6a3e;       /* links */
   --leaf-dark: #1f4d2c;  /* link hover */
   --rule: #e2e7e3;
+  --wash: #f1f5f1;       /* highlight for the entry you jumped to */
 
   --serif: "Spectral", Georgia, "Times New Roman", serif;
   --sans: "Public Sans", "Helvetica Neue", Arial, sans-serif;
@@ -205,7 +206,15 @@ main { padding-bottom: 5rem; }
 .paper {
   display: grid;
   grid-template-columns: var(--gutter) minmax(0, var(--measure));
+  max-width: calc(var(--gutter) + var(--measure));
   padding: 1rem 0;
+  scroll-margin-top: 1.5rem;
+}
+/* The entry you jumped to (e.g. from a paper's "Replication" link) gets a soft highlight. */
+.paper:target {
+  background: var(--wash);
+  box-shadow: 0 0 0 0.75rem var(--wash);
+  border-radius: 1px;
 }
 
 .paper-year {
@@ -298,8 +307,22 @@ main { padding-bottom: 5rem; }
 
 /* --- Data --------------------------------------------------------------- */
 
-.prose { max-width: var(--measure); }
-.prose h2 { margin: 0 0 1rem; font-size: 1.75rem; }
+.section-intro {
+  max-width: calc(var(--gutter) + var(--measure));
+  margin-bottom: 0.75rem;
+  padding-left: var(--gutter);
+}
+.section-intro p:last-child { margin-bottom: 0; }
+.data-section .downloads { margin-left: var(--gutter); }
+
+.replication-note {
+  margin: 0.4rem 0 0;
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  line-height: 1.55;
+  color: var(--ink-soft);
+}
+.replication-note p { margin: 0; }
 
 .downloads {
   margin: 2.5rem 0 0;
@@ -408,6 +431,8 @@ main { padding-bottom: 5rem; }
   .paper-year { font-size: 1rem; padding: 0; }
   .paper-year:empty { display: none; }
 
+  .section-intro { padding-left: 0; }
+  .data-section .downloads { margin-left: 0; }
   .download-row { grid-template-columns: minmax(0, 1fr); }
   .courses a { display: block; width: fit-content; margin-left: 0; }
   .institution h2 { font-size: 1.625rem; }
